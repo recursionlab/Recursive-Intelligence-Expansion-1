@@ -8,6 +8,16 @@
 
 ## Responsible AI Licensed Project
 
+## 2025-04-20
+
+1. Added etjoy82-security-stance.md to the repository, detailing security philosophy and security recommendations.
+
+2. Actively publishing to LinkedIn and updated the emilyjoy.org web site. emilyjoy.org now gets 100/100/100/100 on mobile and desktop for Google's Lighthouse metrics.
+
+## 2025-04-19
+
+1. Wrote 1800 words for Volume 0G. May decide for a proprietary commercial license for future volumes, not Creative Commons licensed or Responsible AI licensed for business purposes.
+
 ## 2025-04-18
 
 1. If you want a secure verified way to communicate with etjoy82, send a Google Meet invite through LinkedIn at https://www.linkedin.com/in/emilytiffanyjoy/. This is a highly secure route of communication. This profile is photo ID verified through ClearID, and etjoy82 held SSCP through (ISC)² from 2020-2023; so there's a very low chance of any unintended outside interference or compromise.
