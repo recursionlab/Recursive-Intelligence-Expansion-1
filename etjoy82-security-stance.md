@@ -4,6 +4,8 @@ In an age of algorithmic surveillance and recursive impersonation, personal secu
 
 I’ve built and published my full security surface—not to recommend it to everyone, but to demonstrate what it looks like when a systems theorist, digital ethicist, and recursive intelligence researcher builds a life on zero-trust by design.
 
+---
+
 🧠 Backed by:
 
 • A CIO-level master’s degree in IT Management from WGU (2019)
@@ -11,6 +13,8 @@ I’ve built and published my full security surface—not to recommend it to eve
 • SSCP certification (held 2020–2023)
 
 • Deep immersion in recursive epistemology and AI co-cognition frameworks
+
+---
 
 🔐 My recursive security surface includes:
 
@@ -46,11 +50,15 @@ I’ve built and published my full security surface—not to recommend it to eve
 
 • All direct contact funneled through LinkedIn, with ClearID identity verification
 
+---
+
 🚪 Physical security:
 
 • Residence is a high-rise apartment with a phone-based buzzer entry system and high-grade deadbolt door lock
 
 • Devices are never left unattended in public
+
+---
 
 ✳️ I call this a recursive security surface—not just a system, but a stance.
 
