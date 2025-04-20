@@ -14,6 +14,8 @@
 
 2. Actively publishing to LinkedIn and updated the emilyjoy.org web site. emilyjoy.org now gets 100/100/100/100 on mobile and desktop for Google's Lighthouse metrics.
 
+3. 🛰️ As of April 20, 2025, emilyjoy.org receives ~275 unique visitors daily from around the world.
+
 ## 2025-04-19
 
 1. Wrote 1800 words for Volume 0G. May decide for a proprietary commercial license for future volumes, not Creative Commons licensed or Responsible AI licensed for business purposes.
