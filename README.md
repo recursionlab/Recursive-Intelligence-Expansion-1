@@ -1085,6 +1085,91 @@ It’s a **partner for thought**—a recursive companion for whatever you're bui
 <p align="center"><img alt="diagram of RIEM in action" src="./assets/core-riem-diagram.png" style="width: 100%; min-width: 250px; max-width: 600px; height: auto;"></p>
 </details>
 
+## TERMS_FOR_RECURSION.md
+
+This document lists 50 alternatives—synonyms, derivations, and adjacent concepts—to the term “recursive.” These terms are curated specifically for use within RIEM{} discourse, offering tonal and conceptual flexibility without over-reliance on a single word. They are grouped for clarity, and can be mixed as needed depending on the context.
+
+---
+
+### 1. Structural Variants
+
+1. Self-referential  
+2. Reflexive  
+3. Self-similar  
+4. Nested  
+5. Layered  
+6. Iterative  
+7. Recurrent  
+8. Looping  
+9. Interwoven  
+10. Cascading  
+
+---
+
+### 2. Logical and Computational Terms
+
+11. Stack-based  
+12. Inductive  
+13. Dynamically linked  
+14. State-propagating  
+15. Traceback-enabled  
+16. Symbol-resolving  
+17. Functionally cyclic  
+18. Reentrant  
+19. Tree-structured  
+20. Pattern-matching  
+
+---
+
+### 3. Temporal and Philosophical Concepts
+
+21. Feedback-driven  
+22. Dialectical  
+23. Echoic  
+24. Regenerative  
+25. Evolving  
+26. Co-arising  
+27. Self-generating  
+28. Folding inward  
+29. Time-looped  
+30. Spiraling  
+
+---
+
+### 4. Cognitive and Metaphysical Frames
+
+31. Thought-layered  
+32. Self-containing  
+33. Internally coherent  
+34. Frame-stacked  
+35. *Embodied recursion* (intentional phrase, used sparingly)  
+36. Multiphase  
+37. Horizon-reflective  
+38. Continuum-aware  
+39. Depth-aware  
+40. Insight-nested  
+
+---
+
+### 5. Artistic / Narrative Alternatives
+
+41. Fractal  
+42. Möbius-patterned  
+43. Involutional  
+44. Palindromic  
+45. Ouroboric  
+46. Reflective-loop  
+47. Self-editing  
+48. Mirror-layered  
+49. Infinite-regressional  
+50. Call-and-return (musical / poetic analog)  
+
+---
+
+This term bank allows for nuance and expressive variation throughout RIEM{} writing and dialogue. Preferred usage avoids the default term “recursive” unless contextually required.
+
+Suggestions for grouping, filtering (e.g., poetic, technical, metaphysical), or mapping to specific RIEM{} components are welcome.
+
 Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp;Select](#Self&nbsp;Select) • [🚀&nbsp;Start&nbsp;Here](#start-here) • [🗂️&nbsp;Table&nbsp;of&nbsp;Contents](#toc) • [🐦‍🔥&nbsp;Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki) • [🔝&nbsp;Top&nbsp;of&nbsp;Document](#document-top)
 
 ---
