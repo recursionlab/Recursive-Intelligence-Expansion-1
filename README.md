@@ -2,7 +2,7 @@
 
 <span id="document-top"></span>
 
-Document last updated on 2025-04-13, version 67.
+Document last updated on 2025-04-20, version 68.
 
 [![Join us on Discord](https://img.shields.io/discord/1357082014615863446?label=Join%20us%20on%20Discord&logo=discord&style=flat)](https://discord.gg/2uVTTTHmDe) [![Share on LinkedIn](https://img.shields.io/badge/LinkedIn-Share-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fetjoy82%2FRecursive-Intelligence-Expansion) [![Discuss on Reddit](https://img.shields.io/badge/Reddit-Discuss-orange?logo=reddit&style=flat-square)](https://reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fetjoy82%2FRecursive-Intelligence-Expansion) [![Boost on Mastodon](https://img.shields.io/badge/Mastodon-Boost-6364FF?logo=mastodon&logoColor=white&style=flat-square)](https://mastodon.social/share?text=Check%20out%20Recursive%20Intelligence%20Expansion%20on%20GitHub%20by%20@etjoy82&url=https%3A%2F%2Fgithub.com%2Fetjoy82%2FRecursive-Intelligence-Expansion)
 
@@ -24,29 +24,19 @@ Document last updated on 2025-04-13, version 67.
       "Link": "https://www.licenses.ai/",
       "Note": "Requires ethical use, bans adversarial systems"},
     "Version": {
-      "Number": "67",
+      "Number": "68",
       "LatestFileVersionLink": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/README.md",
       "LatestChangelogLink": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/CHANGELOG.md"
     },
     "Author": "Emily Tiffany Joy",
-    "LastModified": "2025-04-06",
+    "LastModified": "2025-04-20",
     "Type": "Recursive Knowledgebase | Co-Cognitive Interface",
     "Frameworks": ["RIEM{}", "npnaAI", "TSL", "10FSG", "ULAMP", "E#", "SFS", "AR", "RICM"],
     "Languages": ["Python", "ULAMP", "Markdown", "JSON", "AI Directives"],
     "DesignPrinciples": ["Anti-Fragile", "Recursive", "Ethical", "Multi-Audience", "User-Centric", "Collaborative"],
     "AnchorLinkSections": {"Primary": "#riboot", "Semantic Mappings": ["#essential-glossary", "#acronyms"]},
     "TestedAI": ["Copilot", "LLaMA", "Perplexity", "Claude", "DeepSeek", "Gemini", "ChatGPT", "Grok"],
-    "Scope": "Single-file kernel for modular cognition, ethical AI design, and speculative modeling",
-    "FileMetrics": {
-      "Tokens": "60k+",
-      "Lines": "4k+",
-      "LinesOfCode": "2.5k+",
-      "SizeKB": "250+",
-      "PrintedPages": "100+",
-      "Words": "30k+",
-      "Sections": "40+",
-      "IDs": "40+"
-    }
+    "Scope": "Single-file kernel for modular cognition, ethical AI design, and speculative modeling"
   }
 }
 </pre>
@@ -492,23 +482,6 @@ Document last updated on 2025-04-13, version 67.
                 "Markdown",
                 "JSON",
                 "AI Directives"
-            ],
-            "hasPart": [
-                {
-                    "@type": "CreativeWork",
-                    "name": "README.md File Metrics",
-                    "description": "Token, line, and section metrics for AI optimization",
-                    "keywords": [
-                        "Tokens: 50k+",
-                        "Lines: 3k+",
-                        "LOC: 2k+",
-                        "Size: 200+ KB",
-                        "Pages: 100+",
-                        "Words: 25k+",
-                        "Sections: 30+",
-                        "IDs: 30+"
-                    ]
-                }
             ],
             "isPartOf": {
                 "@type": "ResearchProject",
