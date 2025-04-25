@@ -54,7 +54,7 @@ I’ve built and published my full security surface—not to recommend it to eve
 
 🚪 Physical security:
 
-• Residence is a high-rise apartment with a phone-based buzzer entry system and high-grade deadbolt door lock
+• Residence is a high-rise apartment with a phone-based buzzer entry system and high-grade deadbolt door lock with security cameras
 
 • Devices are never left unattended in public
 
