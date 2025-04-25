@@ -11,7 +11,7 @@ https://www.emilyjoy.org | https://github.com/etjoy82 | me@emilyjoy.org
   [View repository](https://github.com/etjoy82/Recursive-Intelligence-Expansion)
 
 - *Triple Speculative Lens* (Non-Fiction Science)
- > Published via Amazon KDP and Google Books with sample on emilyjoy.org
+  > Published via Amazon KDP and Google Books with sample on emilyjoy.org
   [Read online](https://www.amazon.com/Triple-Speculative-Lens-Computing-Alternative-ebook/dp/B0F448QJKT/)
 
 - *Technesthesia* (Speculative Memoir)  
