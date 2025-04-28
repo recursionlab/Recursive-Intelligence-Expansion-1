@@ -14,7 +14,7 @@ RIEM{} Project Digital Object Identifier Hosted By CERN: <a href="https://doi.or
     <img src="https://img.shields.io/discord/1357082014615863446?style=social&label=&logo=discord" alt="Join our Discord" />
   </a>
   <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fetjoy82%2FRecursive-Intelligence-Expansion">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=social&logo=linkedin" alt="Share on LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=white" alt="Share on LinkedIn" />
   </a>
   <a href="https://reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fetjoy82%2FRecursive-Intelligence-Expansion">
     <img src="https://img.shields.io/badge/-Reddit-%23FF4500?style=social&logo=reddit" alt="Discuss on Reddit" />
