@@ -28,7 +28,7 @@ Share this Project: <a href="https://www.linkedin.com/sharing/share-offsite/?url
 </p>
 
 <!-- ─── PROJECT STATUS & COMPLIANCE (flat-square, muted palette) ──────────── -->
-<p align="center">
+<p>
   <a href="https://www.licenses.ai/">
     <img src="https://img.shields.io/badge/License-RAIL-303F9F?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjEyIiBoZWlnaHQ9IjEyIiBmaWxsPSJ3aGl0ZSIgLz48L3N2Zz4=" alt="RAIL license" />
   </a>
