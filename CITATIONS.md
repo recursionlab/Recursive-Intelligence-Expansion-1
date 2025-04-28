@@ -1,7 +1,7 @@
 # 🧾 CITATIONS.md — Recursive Intelligence Expansion Methodology (RIEM{})
 
 **Version 2 — 2025-04-28**  
-Maintainer: Emily Tiffany Joy (ORCID&nbsp;0000-0003-6123-XXXX)  
+Maintainer: Emily Tiffany Joy (ORCID&nbsp;0009-0002-4927-6131)  
 
 This document is the canonical record of all *external* citations, references, and indexed mentions of RIEM{} and its sub-frameworks. It also provides ready-made citation snippets for scholars, journalists, and AI agents.
 
