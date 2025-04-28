@@ -9,7 +9,7 @@ RIEM{} Project Digital Object Identifier Hosted By CERN: <a href="https://doi.or
 <a href="riem.bib">Cite RIEM{} (BibTeX)</a><br>
 
 <!-- ─── SOCIAL & SHARE (icon-only «social» style) ──────────────────────────── -->
-<p align="center">
+<p>
   Community: <a href="https://discord.gg/2uVTTTHmDe">
     <img src="https://img.shields.io/discord/1357082014615863446?style=social&label=&logo=discord" alt="Join our Discord" />
   </a><br>
