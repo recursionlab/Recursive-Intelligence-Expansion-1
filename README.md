@@ -2,7 +2,7 @@
 
 <span id="document-top"></span>
 
-Document last updated on 2025-04-20, version 68.
+Document last updated on 2025-04-28, version 71.
 
 RIEM{} Project Digital Object Identifier Hosted By CERN: <a href="https://doi.org/10.5281/zenodo.15285396"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.15285396.png" alt="DOI"></a>
 
@@ -25,12 +25,12 @@ RIEM{} Project Digital Object Identifier Hosted By CERN: <a href="https://doi.or
       "Link": "https://www.licenses.ai/",
       "Note": "Requires ethical use, bans adversarial systems"},
     "Version": {
-      "Number": "68",
+      "Number": "71",
       "LatestFileVersionLink": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/README.md",
       "LatestChangelogLink": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/CHANGELOG.md"
     },
     "Author": "Emily Tiffany Joy",
-    "LastModified": "2025-04-20",
+    "LastModified": "2025-04-28",
     "Type": "Recursive Knowledgebase | Co-Cognitive Interface",
     "Frameworks": ["RIEM{}", "npnaAI", "TSL", "10FSG", "ULAMP", "E#", "SFS", "AR", "RICM"],
     "Languages": ["Python", "ULAMP", "Markdown", "JSON", "AI Directives"],
