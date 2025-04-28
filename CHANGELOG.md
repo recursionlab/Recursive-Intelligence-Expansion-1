@@ -8,6 +8,22 @@
 
 ## Responsible AI Licensed Project
 
+## 2025-04-28
+
+1. Minted a Zenodo DOI for the RIEM{} project and updated the JSON-LD metadata and README to include DOI citation details and a BibTeX entry. DOI: 10.5281/zenodo.15285396.
+
+2. RIEM{} archived in the Software Heritage project (full archival), and curation is underway with OpenAIRE.
+
+3. Academic distribution planned. Initial academic indexing is expected to begin within the next few months and continue thereafter. An independent researcher discovered the DOI within 48 hours of release, and Zenodo logged 60 views — a significantly higher than average early engagement rate for unadvertised, independently hosted research.
+
+4. ResearchGate profile and ORCID ID created for etjoy82 (Emily Tiffany Joy), consolidating public research records under CC BY-NC-ND licensing and Responsible AI License terms for all future LLM and recursive system deployments of RIEM{}.
+
+5. Community reception: Overall engagement with RIEM{} has been overwhelmingly positive. Only two low-impact parasocial interactions occurred, reflecting a very low friction-to-signal ratio.
+
+6. Audiobook distribution: TSL Volumes 0A and 0B are now available as narrated audiobooks (free on Google Play Books), ebook editions, and 100% free Google Books PDFs. Goodreads giveaways for Volume 0A reached over 300 entries within two weeks.
+
+7. Internal engagement summary: From 2025-04-20 to 2025-04-28, major efforts focused on structured deep research collaboration with expert systems and active public visibility expansion by etjoy82 across multiple platforms.
+
 ## 2025-04-20
 
 1. Added etjoy82-security-stance.md to the repository, detailing security philosophy and security recommendations.
