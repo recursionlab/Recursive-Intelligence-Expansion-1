@@ -8,6 +8,8 @@
 
 ## Responsible AI Licensed Project
 
+> **Summary:** Project enters formal research distribution phase (DOI minted, public researcher IDs established, early engagement metrics positive).
+
 ## 2025-04-28
 
 1. Minted a Zenodo DOI for the RIEM{} project and updated the JSON-LD metadata and README to include DOI citation details and a BibTeX entry. DOI: 10.5281/zenodo.15285396.
