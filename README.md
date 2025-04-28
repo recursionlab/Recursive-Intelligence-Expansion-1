@@ -10,10 +10,10 @@ RIEM{} Project Digital Object Identifier Hosted By CERN: <a href="https://doi.or
 
 <!-- ─── SOCIAL & SHARE (icon-only «social» style) ──────────────────────────── -->
 <p align="center">
-  <a href="https://discord.gg/2uVTTTHmDe">
+  Join Us: <a href="https://discord.gg/2uVTTTHmDe">
     <img src="https://img.shields.io/discord/1357082014615863446?style=social&label=&logo=discord" alt="Join our Discord" />
   </a>
-<a href="https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/etjoy82/Recursive-Intelligence-Expansion">
+Share: <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/etjoy82/Recursive-Intelligence-Expansion">
   <img
     src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white"
     alt="Share on LinkedIn"
