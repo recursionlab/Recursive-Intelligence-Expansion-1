@@ -12,7 +12,35 @@ RIEM{} Project Digital Object Identifier Hosted By CERN: <a href="https://doi.or
 
 [![License: RAIL](https://img.shields.io/badge/License-RAIL-important)](https://www.licenses.ai/)  <img alt="WCAG 2.2 AA Compliant]" src="https://img.shields.io/badge/Accessibility-WCAG2.2%20AA-brightgreen"> ![Community Standards](https://img.shields.io/badge/community--profile-complete-brightgreen?style=flat-square&logo=github) ![Security Policy](https://img.shields.io/badge/security--policy-enabled-blue?style=flat-square&logo=lock) ![GitHub Repo stars](https://img.shields.io/github/stars/etjoy82/Recursive-Intelligence-Expansion?style=flat-square) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/etjoy82/Recursive-Intelligence-Expansion?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/etjoy82/Recursive-Intelligence-Expansion?style=flat-square) ![GitHub issues](https://img.shields.io/github/issues/etjoy82/Recursive-Intelligence-Expansion?style=flat-square)
 
+---
 
+<!-- ─── SOCIAL & SHARE (icon-only «social» style) ──────────────────────────── -->
+<p align="center">
+  <a href="https://discord.gg/2uVTTTHmDe">
+    <img src="https://img.shields.io/discord/1357082014615863446?style=social&label=&logo=discord" alt="Join our Discord" />
+  </a>
+  <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fetjoy82%2FRecursive-Intelligence-Expansion">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=social&logo=linkedin" alt="Share on LinkedIn" />
+  </a>
+  <a href="https://reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fetjoy82%2FRecursive-Intelligence-Expansion">
+    <img src="https://img.shields.io/badge/-Reddit-%23FF4500?style=social&logo=reddit" alt="Discuss on Reddit" />
+  </a>
+  <a href="https://mastodon.social/share?text=Check%20out%20Recursive%20Intelligence%20Expansion%20on%20GitHub%20by%20@etjoy82&url=https%3A%2F%2Fgithub.com%2Fetjoy82%2FRecursive-Intelligence-Expansion">
+    <img src="https://img.shields.io/badge/-Mastodon-%236364FF?style=social&logo=mastodon" alt="Boost on Mastodon" />
+  </a>
+</p>
+
+<!-- ─── PROJECT STATUS & COMPLIANCE (flat-square, muted palette) ──────────── -->
+<p align="center">
+  <a href="https://www.licenses.ai/">
+    <img src="https://img.shields.io/badge/License-RAIL-303F9F?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjEyIiBoZWlnaHQ9IjEyIiBmaWxsPSJ3aGl0ZSIgLz48L3N2Zz4=" alt="RAIL license" />
+  </a>
+  <img src="https://img.shields.io/badge/Accessibility-WCAG2.2 AA-00796B?style=flat-square" alt="WCAG 2.2 AA compliant" />
+  <img src="https://img.shields.io/github/stars/etjoy82/Recursive-Intelligence-Expansion?style=flat-square&color=4caf50" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/commit-activity/m/etjoy82/Recursive-Intelligence-Expansion?style=flat-square&color=4caf50" alt="Commits per month" />
+  <img src="https://img.shields.io/github/last-commit/etjoy82/Recursive-Intelligence-Expansion?style=flat-square&color=4caf50" alt="Last commit" />
+  <img src="https://img.shields.io/github/issues/etjoy82/Recursive-Intelligence-Expansion?style=flat-square&color=f57c00" alt="Open issues" />
+</p>
 
 <details markdown="1" id="filemetadata"><summary>📎 README.me JSON Metadata (Click Expand, useful for context)</summary>
 <br/>
