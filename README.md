@@ -59,7 +59,24 @@ RIEM{} Project Digital Object Identifier Hosted By CERN: <a href="https://doi.or
             "alternateName": "RIEM, Triple Speculative Lens, CNAKS, Recursive AI Ethics",
             "description": "Recursive Intelligence Expansion Methodology (RIEM{}) is an open-source recursive knowledgebase for ethical AI, speculative cognition, non-adversarial systems, and cross-domain intelligence modeling. Hosted by the Center for Non-Adversarial Knowledge Structuring (CNAKS), the project spans 11 volumes and includes frameworks such as TSL, ULAMP, Earths Notation (E Sharp), RUMIA, and 10FSG. A self-contained, index-rich recursive AI kernel and documentation system, serving as both an onboarding interface and deep cognition scaffold for recursive systems. Design Principles: Anti-Fragile, Recursive, Ethical, Multi-Audience, User-Centric, Collaborative",
             "url": "https://www.cnaks.org/",
-            "identifier": "https://github.com/etjoy82/Recursive-Intelligence-Expansion",
+            "identifier": [
+              {
+                "@type": "PropertyValue",
+                "propertyID": "URL",
+                "value": "https://github.com/etjoy82/Recursive-Intelligence-Expansion"
+              },
+              {
+                "@type": "PropertyValue",
+                "propertyID": "DOI",
+                "value": "10.5281/zenodo.15285396",
+                "url":   "https://doi.org/10.5281/zenodo.15285396"
+              }
+            ],
+            "publisher": {
+                "@type": "Organization",
+                "name": "CERN (Zenodo)",
+                "url": "https://zenodo.org"
+            },
             "keywords": [
                 "recursive intelligence expansion",
                 "riem",
@@ -449,6 +466,8 @@ RIEM{} Project Digital Object Identifier Hosted By CERN: <a href="https://doi.or
                 "@id": "https://www.cnaks.org/"
             },
             "inLanguage": "en",
+            "dateModified": "2025-04-20",
+            "version": "68",
             "description": "README.md for the Recursive Intelligence Expansion Methodology (RIEM{}), a recursive knowledgebase and modular cognition system integrating ULAMP, 10FSG, npnaAI, and speculative AI design. Designed for ethical recursive agents, human-AI co-thinking, and cross-domain systems design.",
             "author": {
                 "@type": "Person",
