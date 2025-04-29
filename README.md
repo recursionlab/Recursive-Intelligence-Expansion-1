@@ -2,7 +2,7 @@
 
 <span id="document-top"></span>
 
-This document is the length of a novella and serves as a highly indexed, user-friendly single-page knowledgebase. Though exact statistics are unavailable so I can't be sure, this might be the largest README.md on Github.
+This document is approximately the length of a novella and is structured as a densely indexed, single-page knowledgebase. While no definitive repository-wide statistics exist, it may be among the largest standalone README.md files currently hosted on GitHub. Its format is intentional, designed to function both as a reference surface and as a cohesive philosophical artifact.
 
 Document last updated on 2025-04-28, version 71.
 
