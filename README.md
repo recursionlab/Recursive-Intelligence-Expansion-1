@@ -467,7 +467,7 @@ Share this Project: <a href="https://www.linkedin.com/sharing/share-offsite/?url
         },
         {
             "@type": "SoftwareSourceCode",
-            "@id": "https://www.cnaks.org/readmemd.html",
+            "@id": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/README.md",
             "about": {
                 "@type": "Thing",
                 "name": "Recursive co-cognition thinking surface kernel"
