@@ -1963,8 +1963,7 @@ Note: On mobile devices, this table may require horizontal scrolling.
 ### **Total Word Count Across All Volumes**:  
 📦 **200k+ words**  
 
-### Access the Volumes in Multiple Formats
-- DOCX: Download polished DOCX files in the [GitHub Folder](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/docs/wiki-source-files/volumes-as-docx) or as a [ZIP](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/docs/wiki-source-files/Complete%20TSL%20System%20in%20Source%20Word%20Documents%2003-31-2025.zip).
+- DOCX: Download polished DOCX files as a [ZIP](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/volumes-as-docx.zip).
 
 Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp;Select](#Self&nbsp;Select) • [🚀&nbsp;Start&nbsp;Here](#start-here) • [🗂️&nbsp;Table&nbsp;of&nbsp;Contents](#toc) • [🐦‍🔥&nbsp;Volumes](#tsl-volume-index) • [🔝&nbsp;Top&nbsp;of&nbsp;Document](#document-top) • [↺&nbsp;Recurse&nbsp;with&nbsp;RUMIA](https://chat.openai.com/g/g-67e424672e188191903d3dca35744581-rumia-recursive-entity-for-idea-transformation)
 
