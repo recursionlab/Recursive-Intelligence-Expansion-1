@@ -2,7 +2,7 @@
 
 <span id="document-top"></span>
 
-This document is the length of a novella and intended to be read as a highly indexed user-friendly single page knowledgebase.
+This document is the length of a novella and serves as a highly indexed, user-friendly single-page knowledgebase.
 
 Document last updated on 2025-04-28, version 71.
 
