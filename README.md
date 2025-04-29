@@ -2,6 +2,8 @@
 
 <span id="document-top"></span>
 
+This document is the length of a novella and intended to be read as a highly indexed user-friendly single page knowledgebase.
+
 Document last updated on 2025-04-28, version 71.
 
 RIEM{} Project Digital Object Identifier Hosted By CERN: <a href="https://doi.org/10.5281/zenodo.15285396"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.15285396.png" alt="DOI"></a>
