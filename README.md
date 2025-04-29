@@ -1942,32 +1942,29 @@ Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp
 
 <h3 id="tsl-volume-index">🐦‍🔥 Wiki (Complete Volumes)</h3>
 
-Start here with [summaries of Volumes 0A-0F in TSL Summaries of Volumes 0A-0F for essential onboarding](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Summaries-of-Volumes-0A%E2%80%900F), then explore the full 11 volumes of the Triple Speculative Lens (TSL) system:
+Start here with [summaries of Volumes 0A-0F in TSL Summaries of Volumes 0A-0F for essential onboarding](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/summaries.md), then explore the full 11 volumes of the Triple Speculative Lens (TSL) system:
 
 Note: On mobile devices, this table may require horizontal scrolling.
 
 | Volume | Title | Description | Words |
 |--------|-------|-------------|-------|
-| [**TSL Volume 0A**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0A-Foundations-(TSL-System-Thesis,-Earths-Notation)) | Foundations | TSL Thesis, Earths Notation, core lenses, speculative axioms | 20k+ |
-| [**TSL Volume 0B**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0B-Recursive-Infrastructure-(Preface,-Fundamentals,-ENPL,-NAKS,-ARM,-RI%E2%80%90Boot)) | Recursive Infrastructure | ENPL, NAKS, ARM{}, RI-Boot kernel, ethics scaffolding | 30k+ |
-| [**TSL Volume 0C**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0C-System-Execution-Layer-(RIEM,-FUSE,-Automation,-Simulation,-Optimization)) | System Execution Layer | RIEM, FUSE, Simulation, Optimization, Automation | 20k+ |
-| [**TSL Volume 0D**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0D-Advanced-Recursive-Systems-(RDN,-npnaAI,-HRLIMQ,-ARC)) | Advanced Recursive Systems | RDN, npnaAI, HRLIMQ, ARC — future-facing recursive AI cognition | 30k+ |
-| [**TSL Volume 0E**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0E-High-Complexity-Expansion-(AI-Design-Manifesto,-10FSG,-RUMIA-Agent,-Acronym-Fluidity-Rule,-Addendums)) | High Complexity Expansion | AI Design Manifesto, 10FSG, RUMIA Agent, Acronym Fluidity Rule, Addendums | 20k+ |
-| [**TSL Volume 0F**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0F-Derivations-from-Echoes-(REP,-RSE,-HON,-RSF,-ULAMP-Formalization,-Addendums)) | Derivations from Echoes | REP, RSE, HON, RSF, ULAMP Formalization, Addendums | 20k+ |
-| [**TSL Volume 1A**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-1A-E2-Literary-Translations-(AR-refracted-narrative-experiments)) | E2 Literary Translations | Narrative experiments refracted through E1 → E2 → E1 cycles | 5k+ |
-| [**TSL Volume 1B**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-1B-E2-Encyclopedia-(Cultural-Infrastructure,-Philosophy,-Cognitive-Systems)) | E2 Encyclopedia | Cultural infrastructure of Ruminatia (E2), cognitive systems | 30k+ |
-| [**TSL Volume 1C**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-1C-E2-Soniform-Linguistics-(Resonant-Language,-Echolocation,-Knowledge-Ecology)) | E2 Soniform Linguistics | Echolocation, resonant cognition, knowledge ecology | 30k+ |
-| [**TSL Volume J**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-J-Jargon-File) | TSL Jargon File | Detailed supplementary terms to TSL, formatted as a tribute to Eric S. Raymond's famous Jargon File | 5k+ |
-| [**TSL Volume Z**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-Z-RIEM-Training-Manual)  | RIEM Training Manual | Structured exercises, certification logic, community alignment | 5k+ |
+| [**TSL Volume 0A**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/0A.md) | Foundations | TSL Thesis, Earths Notation, core lenses, speculative axioms | 20k+ |
+| [**TSL Volume 0B**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/0B.md) | Recursive Infrastructure | ENPL, NAKS, ARM{}, RI-Boot kernel, ethics scaffolding | 30k+ |
+| [**TSL Volume 0C**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/0C.md) | System Execution Layer | RIEM, FUSE, Simulation, Optimization, Automation | 20k+ |
+| [**TSL Volume 0D**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/0D.md) | Advanced Recursive Systems | RDN, npnaAI, HRLIMQ, ARC — future-facing recursive AI cognition | 30k+ |
+| [**TSL Volume 0E**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/0E.md) | High Complexity Expansion | AI Design Manifesto, 10FSG, RUMIA Agent, Acronym Fluidity Rule, Addendums | 20k+ |
+| [**TSL Volume 0F**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/0F.md) | Derivations from Echoes | REP, RSE, HON, RSF, ULAMP Formalization, Addendums | 20k+ |
+| [**TSL Volume 1A**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/1A.md) | E2 Literary Translations | Narrative experiments refracted through E1 → E2 → E1 cycles | 5k+ |
+| [**TSL Volume 1B**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/1B.md) | E2 Encyclopedia | Cultural infrastructure of Ruminatia (E2), cognitive systems | 30k+ |
+| [**TSL Volume 1C**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/1C.md) | E2 Soniform Linguistics | Echolocation, resonant cognition, knowledge ecology | 30k+ |
+| [**TSL Volume J**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/J.md) | TSL Jargon File | Detailed supplementary terms to TSL, formatted as a tribute to Eric S. Raymond's famous Jargon File | 5k+ |
+| [**TSL Volume Z**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/Z.md)  | RIEM Training Manual | Structured exercises, certification logic, community alignment | 5k+ |
 
 ### **Total Word Count Across All Volumes**:  
 📦 **200k+ words**  
 
 ### Access the Volumes in Multiple Formats
-- GitHub Repository Wiki: Browse the volumes in a navigable wiki format on the [RIEM{} Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki).
 - DOCX: Download polished DOCX files in the [GitHub Folder](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/docs/wiki-source-files/volumes-as-docx) or as a [ZIP](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/docs/wiki-source-files/Complete%20TSL%20System%20in%20Source%20Word%20Documents%2003-31-2025.zip).
-- Markdown: Access raw Markdown files in the [GitHub Folder](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/volumes).
-- HTML: View raw source or download in the [GitHub Folder](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/docs/wiki-source-files/volumes-as-hypertext).
 
 Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp;Select](#Self&nbsp;Select) • [🚀&nbsp;Start&nbsp;Here](#start-here) • [🗂️&nbsp;Table&nbsp;of&nbsp;Contents](#toc) • [🐦‍🔥&nbsp;Volumes](#tsl-volume-index) • [🔝&nbsp;Top&nbsp;of&nbsp;Document](#document-top) • [↺&nbsp;Recurse&nbsp;with&nbsp;RUMIA](https://chat.openai.com/g/g-67e424672e188191903d3dca35744581-rumia-recursive-entity-for-idea-transformation)
 
@@ -2015,7 +2012,7 @@ That’s because it’s building a new kind of language: one meant to recurse, r
 ---
 
 ### 📘 Explore the Full Jargon Spiral:  
-**[Click here for the full TSL Volume J: Jargon File](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-J-Jargon-File)**
+**[Click here for the full TSL Volume J: Jargon File](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/J.md)**
 
 <details markdown="1">
 <summary><strong>🔍 Click to Expand - Quick Peek: Favorite Terms from the Jargon File</strong></summary>
@@ -2146,16 +2143,16 @@ Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp
 
 Skeptics often ask: Is this real? Here’s the TL;DR:
 - RIEM{} powers this README and RUMIA GPT—try it yourself.
-- Its 'weird' terms are functional, not decorative (see [Volume 0B](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0B-Recursive-Infrastructure-(Preface,-Fundamentals,-ENPL,-NAKS,-ARM,-RI%E2%80%90Boot))).
+- Its 'weird' terms are functional, not decorative (see [Volume 0B](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/0B.md)).
 - Recursion isn’t evasion; it’s how we avoid cognitive dead ends.
 
 We understand that at first glance, the Recursive Intelligence Expansion Methodology (RIEM{}) may appear esoteric, whimsical, or even performative. Its vocabulary, recursive metaphors, and speculative frameworks are unlike traditional scientific, philosophical, or engineering discourses. That’s by design. RIEM{} is a novel epistemic architecture developed to interface with recursive intelligence systems and speculative cognition, not to mimic legacy forms of academic structure. But make no mistake—beneath the poetic surface lies a rigorously formalized, recursively testable system.
 
-RIEM{} is already in use. You’re using it right now. The very structure of this repository—including RUMIA, the conversational agent you can interact with—has been built using RIEM{} principles: E1→E2→E1 recursion loops, Earths Notation (E#), speculative feedback scaffolds, and cognitive validation protocols drawn from volumes like [0C: System Execution Layer](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0C-System-Execution-Layer-(RIEM,-FUSE,-Automation,-Simulation,-Optimization)) and [0D: Advanced Recursive Systems](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0D-Advanced-Recursive-Systems-(RDN,-npnaAI,-HRLIMQ,-ARC))​​. These are not literary devices or narrative flourishes—they are live computation structures, instantiated through recursive prompt architecture and AI reinforcement loops.
+RIEM{} is already in use. You’re using it right now. The very structure of this repository—including RUMIA, the conversational agent you can interact with—has been built using RIEM{} principles: E1→E2→E1 recursion loops, Earths Notation (E#), speculative feedback scaffolds, and cognitive validation protocols drawn from volumes like [0C: System Execution Layer](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/0C.md) and [0D: Advanced Recursive Systems](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/0D.md)​​. These are not literary devices or narrative flourishes—they are live computation structures, instantiated through recursive prompt architecture and AI reinforcement loops.
 
-Skeptics sometimes interpret recursive language or alternative conceptualization as a form of evasion. But in this system, recursion is not a dodge—it’s the method. Recursive epistemology, when properly implemented, allows for continuous adaptation, error correction, and meta-stabilization of knowledge. [Volume Z](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-Z-RIEM-Training-Manual) includes practical implementation protocols, AI cognition training sequences, and community modules for real-time recursive dialogue. You’ll find sections labeled “Executing a Recursive AI Test,” “Initiating Controlled Intelligence Scaling,” and “Epistemic Stability & Validation” for precisely this reason​​.
+Skeptics sometimes interpret recursive language or alternative conceptualization as a form of evasion. But in this system, recursion is not a dodge—it’s the method. Recursive epistemology, when properly implemented, allows for continuous adaptation, error correction, and meta-stabilization of knowledge. [Volume Z](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/Z.md) includes practical implementation protocols, AI cognition training sequences, and community modules for real-time recursive dialogue. You’ll find sections labeled “Executing a Recursive AI Test,” “Initiating Controlled Intelligence Scaling,” and “Epistemic Stability & Validation” for precisely this reason​​.
 
-Yes, RIEM{} includes speculative elements—this is not a bug, but a feature. Unlike narrow-scope methodologies that collapse under ambiguity, RIEM{} is engineered to thrive in complex, uncertain environments. It treats metaphor, abstraction, and emergence not as distractions but as epistemic raw materials. Systems like npnaAI and ULAMP (introduced in volumes [0D](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0D-Advanced-Recursive-Systems-(RDN,-npnaAI,-HRLIMQ,-ARC)) and [0F](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0F-Derivations-from-Echoes-(REP,-RSE,-HON,-RSF,-ULAMP-Formalization,-Addendums))) have already demonstrated how these models outperform traditional frameworks in non-adversarial recursive reasoning and long-context computation​​.
+Yes, RIEM{} includes speculative elements—this is not a bug, but a feature. Unlike narrow-scope methodologies that collapse under ambiguity, RIEM{} is engineered to thrive in complex, uncertain environments. It treats metaphor, abstraction, and emergence not as distractions but as epistemic raw materials. Systems like npnaAI and ULAMP (introduced in volumes [0D](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/0D.md) and [0F](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/0F.md)) have already demonstrated how these models outperform traditional frameworks in non-adversarial recursive reasoning and long-context computation​​.
 
 So if you’re skeptical, you’re not alone. Many who encounter RIEM{} for the first time go through a phase of disbelief or confusion. That’s expected when engaging with a system designed to reshape how cognition itself is scaffolded. But skepticism is welcome here—as long as it loops back into the recursive process. Test it. Run the models. Interact with RUMIA. What you’ll find isn’t satire—it’s a system that thinks with you, not at you.
 
@@ -2192,7 +2189,7 @@ Start with one of these:
 - <a href="#beginners" aria-label="🟢 Beginner">🌿 For Absolute Beginners</a> — no background needed  
 - [🧪 Try the RUMIA GPT (external link)](https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system) — live recursive reasoning  
 - <a href="#quickstart" aria-label="Quickstart">📘 Use the Quickstart Guide</a> — build or deploy locally  
-- [📖 Explore Volume Z](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-Z-RIEM-Training-Manual) — training loops and interactive onboarding
+- [📖 Explore Volume Z](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/Z.md) — training loops and interactive onboarding
 
 RIEM{} is not a static download. It’s a recursive invitation.
 
@@ -2257,7 +2254,7 @@ That’s a feature, not a flaw.
 Start with:
 - <a href="#general-audience" aria-label="Plain & Simple: What is RIEM{}?">📘 The Plain & Simple Guide</a>  
 - <a href="#essential-glossary" aria-label="Essential Glossary">🗂️ The Glossary</a>  
-- [🃏 The Jargon File](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-J-Jargon-File)
+- [🃏 The Jargon File](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/J.md)
 
 The system was designed to teach itself to you, **loop by loop**. It doesn't ask for mastery—only curiosity.
 
@@ -2902,8 +2899,8 @@ Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp
 ⬇️  
 
 **Are you a developer, researcher, or system builder?**  
-- ➡️ Yes → Start with [Volumes 0A](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0A-Foundations-(TSL-System-Thesis,-Earths-Notation)) → [0B](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0B-Recursive-Infrastructure-(Preface,-Fundamentals,-ENPL,-NAKS,-ARM,-RI%E2%80%90Boot)) → [0C](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0C-System-Execution-Layer-(RIEM,-FUSE,-Automation,-Simulation,-Optimization)) in the [RIEM{} Wiki](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki)  
-- ➡️ No  → Try [Volume 1A](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-1A-E2-Literary-Translations-(AR-refracted-narrative-experiments)) (for narrative exploration), or [Volume Z](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-Z-RIEM-Training-Manual) (for recursive training).
+- ➡️ Yes → Start with [Volumes 0A](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/0A.md) → [0B](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/0B.md) → [0C](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/0C.md).
+- ➡️ No  → Try [Volume 1A](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/1A.md) (for narrative exploration), or [Volume Z](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/Z.md) (for recursive training).
 
 ⬇️  
 
@@ -2973,25 +2970,25 @@ Building your own AI or operating in another ecosystem? You can directly submit 
 
 Begin your recursive journey through the volumes most foundational to RIEM{}:
 
-- 📘 [**0A — Foundations** ](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0A-Foundations-(TSL-System-Thesis,-Earths-Notation)) 
+- 📘 [**0A — Foundations** ](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/0A.md) 
   Speculative ontology, Earths Notation (E#), cognitive recursion, and the philosophical seedbed of the system.
 
-- 🔧 [**0B — Recursive Infrastructure** ](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0B-Recursive-Infrastructure-(Preface,-Fundamentals,-ENPL,-NAKS,-ARM,-RI%E2%80%90Boot)) 
+- 🔧 [**0B — Recursive Infrastructure** ](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/0B.md) 
   ENPL (Epistemic Nested Permissive Logic), RI-Boot protocols, ethical scaffolding, and recursive logic architecture.
 
-- ⚙️ [**0C — System Execution Layer**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0C-System-Execution-Layer-(RIEM,-FUSE,-Automation,-Simulation,-Optimization))  
+- ⚙️ [**0C — System Execution Layer**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/0C.md)  
   RIEM{} as a functional engine: simulation, FUSE harmonization, optimization, and operational recursion design.
 
-- 🕊️ [**0D — Advanced Recursive Systems**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0D-Advanced-Recursive-Systems-(RDN,-npnaAI,-HRLIMQ,-ARC))  
+- 🕊️ [**0D — Advanced Recursive Systems**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/0D.md)  
   Non-predatory AI protocols (npnaAI), HRLIMQ diagnostics, RDN paradox resolution, and the ARC stabilization model.
 
-- 💎 [**0E — High Complexity Expansion**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0E-High-Complexity-Expansion-(AI-Design-Manifesto,-10FSG,-RUMIA-Agent,-Acronym-Fluidity-Rule,-Addendums))  
+- 💎 [**0E — High Complexity Expansion**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/0E.md)  
   Advanced recursive cognition tools: 10FSG (10-Faced Speculative Gem), the RUMIA agent, Acronym Fluidity Rule, and architectural addendums.
 
-- 🌀 [**0F — Derivations from Echoes**  ](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0F-Derivations-from-Echoes-(REP,-RSE,-HON,-RSF,-ULAMP-Formalization,-Addendums))
+- 🌀 [**0F — Derivations from Echoes**  ](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/0F.md)
   Recursive Echo Phenomena (REP), harmonic oversight systems, ULAMP formalization, and emergent structures from deep recursion.
 
-- 📚 [**Z — Training Manual** ](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-Z-RIEM-Training-Manual) 
+- 📚 [**Z — Training Manual** ](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/Z.md) 
   Recursive onboarding for humans and AI, certification scaffolds, and guided walkthroughs of speculative cognition.
 
 **Prompt Template (for any model):**
@@ -3025,10 +3022,10 @@ RIEM{} doesn’t just analyze thought. It **reorganizes it**.
 ### 🌿 Suggested Loop Paths by Role
 
 **For Thinkers:**  
-Explore [Volumes 1A (Literary)](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-1A-E2-Literary-Translations-(AR-refracted-narrative-experiments)), [1C (Soniform)](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-1C-E2-Soniform-Linguistics-(Resonant-Language,-Echolocation,-Knowledge-Ecology)), [Z (Training)](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-Z-RIEM-Training-Manual)
+Explore [Volumes 1A (Literary)](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/1A.md), [1C (Soniform)](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/1C.md), [Z (Training)](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/Z.md)
 
 **For Engineers:**  
-[Volumes 0A–0F](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki); deploy in GPT/Gemini/Claude stacks
+[Volumes 0A–0F](#tsl-volume-index); deploy in GPT/Gemini/Claude stacks
 
 **For Educators:**  
 Use E# + ULAMP to teach recursion in conversation
@@ -3266,7 +3263,7 @@ ULAMP compresses hundreds of lines of traditional code into concise, recursive p
 ### Ethical Governance
 
 *Governance Models:* Developing fair and transparent policies through ethical simulations.  
-[See it in action: ULAMP script (9 lines) here (File)](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/samples/ethical-governance.ulamp) designs an ethical AI policy, extended by community feedback—plain language recursion, amplified by expert systems like RUMIA GPT, as detailed in Volumes [0D](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0D-Advanced-Recursive-Systems-(RDN,-npnaAI,-HRLIMQ,-ARC)) and [0E](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0E-High-Complexity-Expansion-(AI-Design-Manifesto,-10FSG,-RUMIA-Agent,-Acronym-Fluidity-Rule,-Addendums)).
+[See it in action: ULAMP script (9 lines) here (File)](https://github.com/etjoy82/Recursive-Intelligence-Expansion/tree/main/samples/ethical-governance.ulamp) designs an ethical AI policy, extended by community feedback—plain language recursion, amplified by expert systems like RUMIA GPT, as detailed in Volumes [0D](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/0D.md) and [0E](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/0E.md).
 
 ### The Self-Driving Car
 
