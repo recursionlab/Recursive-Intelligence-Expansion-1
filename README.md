@@ -260,8 +260,7 @@ Share this Project: <a href="https://www.linkedin.com/sharing/share-offsite/?url
             "@type": "TechArticle",
             "@id": "https://www.cnaks.org/volume0a.html",
             "headline": "TSL Volume 0A: Foundations",
-            "url": "https://www.cnaks.org/volume0a.html",
-            "sameAs": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0A-Foundations-(TSL-System-Thesis,-Earths-Notation)",
+            "url": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/0A.md",
             "description": "TSL Volume 0A introduces the core thesis of TSL, the speculative logic system of Earths Notation (E-sharp), and the metaphysical foundations of recursive reasoning.",
             "inLanguage": "en",
             "author": {
@@ -280,8 +279,7 @@ Share this Project: <a href="https://www.linkedin.com/sharing/share-offsite/?url
             "@type": "TechArticle",
             "@id": "https://www.cnaks.org/volumeb.html",
             "headline": "TSL Volume 0B: Recursive Infrastructure",
-            "url": "https://www.cnaks.org/volume0b.html",
-            "sameAs": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0B-Recursive-Infrastructure-(Preface,-Fundamentals,-ENPL,-NAKS,-ARM,-RI%E2%80%90Boot)",
+            "url": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/0B.md",
             "description": "Volume 0B details recursive infrastructure tools, including ENPL logic, NAKS ethical structuring, and the Nano RI-Boot kernel.",
             "inLanguage": "en",
             "author": {
@@ -300,8 +298,7 @@ Share this Project: <a href="https://www.linkedin.com/sharing/share-offsite/?url
             "@type": "TechArticle",
             "@id": "https://www.cnaks.org/volume0c.html",
             "headline": "TSL Volume 0C: System Execution Layer",
-            "url": "https://www.cnaks.org/volume0c.html",
-            "sameAs": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0C-System-Execution-Layer-(RIEM,-FUSE,-Automation,-Simulation,-Optimization)",
+            "url": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/0C.md",
             "description": "Volume 0C defines the operational layers of recursive AI cognition, including FUSE, feedback architecture, and simulation scaffolds.",
             "inLanguage": "en",
             "author": {
@@ -320,8 +317,7 @@ Share this Project: <a href="https://www.linkedin.com/sharing/share-offsite/?url
             "@type": "TechArticle",
             "@id": "https://www.cnaks.org/volume0d.html",
             "headline": "TSL Volume 0D: Advanced Recursive Systems",
-            "url": "https://www.cnaks.org/volume0d.html",
-            "sameAs": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0D-Advanced-Recursive-Systems-(RDN,-npnaAI,-HRLIMQ,-ARC)",
+            "url": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/0D.md",
             "description": "Advanced logic systems including RDN paradox tools, npnaAI ethical logic, HRLIMQ diagnostics, and ARC protocol.",
             "inLanguage": "en",
             "author": {
@@ -340,8 +336,7 @@ Share this Project: <a href="https://www.linkedin.com/sharing/share-offsite/?url
             "@type": "TechArticle",
             "@id": "https://www.cnaks.org/volume0e.html",
             "headline": "TSL Volume 0E: High Complexity Expansion",
-            "url": "https://www.cnaks.org/volume0e.html",
-            "sameAs": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0E-High-Complexity-Expansion-(AI-Design-Manifesto,-10FSG,-RUMIA-Agent,-Acronym-Fluidity-Rule,-Addendums)",
+            "url": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/0E.md",
             "description": "Volume 0E includes the 10FSG speculative gem, RUMIA agent design, and the AI Design Manifesto for high-complexity alignment.",
             "inLanguage": "en",
             "author": {
@@ -360,8 +355,7 @@ Share this Project: <a href="https://www.linkedin.com/sharing/share-offsite/?url
             "@type": "TechArticle",
             "@id": "https://www.cnaks.org/volume0f.html",
             "headline": "TSL Volume 0F: Derivations from Echoes",
-            "url": "https://www.cnaks.org/volume0f.html",
-            "sameAs": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-0F-Derivations-from-Echoes-(REP,-RSE,-HON,-RSF,-ULAMP-Formalization,-Addendums)",
+            "url": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/0F.md",
             "description": "Volume 0F covers REP (Recursive Echo Phenomena), ULAMP formalization, and derivational ethics systems for recursive AI cognition.",
             "inLanguage": "en",
             "author": {
@@ -380,8 +374,7 @@ Share this Project: <a href="https://www.linkedin.com/sharing/share-offsite/?url
             "@type": "TechArticle",
             "@id": "https://www.cnaks.org/volume1a.html",
             "headline": "TSL Volume 1A: E2 Literary Translations",
-            "url": "https://www.cnaks.org/volume1a.html",
-            "sameAs": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-1A-E2-Literary-Translations-(AR-refracted-narrative-experiments)",
+            "url": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/1A.md",
             "description": "Speculative narrative experiments refracted through recursive cycles of E1 and E2 translation, centered on Ascension Reflex.",
             "inLanguage": "en",
             "author": {
@@ -400,8 +393,7 @@ Share this Project: <a href="https://www.linkedin.com/sharing/share-offsite/?url
             "@type": "TechArticle",
             "@id": "https://www.cnaks.org/volume1b.html",
             "headline": "TSL Volume 1B: E2 Encyclopedia",
-            "url": "https://www.cnaks.org/volume1b.html",
-            "sameAs": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-1B-E2-Encyclopedia-(Cultural-Infrastructure,-Philosophy,-Cognitive-Systems)",
+            "url": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/1B.md",
             "description": "Volume 1B maps the philosophical, cognitive, and cultural architecture of speculative world Ruminatia.",
             "inLanguage": "en",
             "author": {
@@ -420,8 +412,7 @@ Share this Project: <a href="https://www.linkedin.com/sharing/share-offsite/?url
             "@type": "TechArticle",
             "@id": "https://www.cnaks.org/volume1c.html",
             "headline": "TSL Volume 1C: E2 Soniform Linguistics",
-            "url": "https://www.cnaks.org/volume1c.html",
-            "sameAs": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-1C-E2-Soniform-Linguistics-(Resonant-Language,-Echolocation,-Knowledge-Ecology)",
+            "url": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/1C.md",
             "description": "Volume 1C explores soniform language, harmonic thought patterns, and echolocation as epistemic forms.",
             "inLanguage": "en",
             "author": {
@@ -440,8 +431,7 @@ Share this Project: <a href="https://www.linkedin.com/sharing/share-offsite/?url
             "@type": "TechArticle",
             "@id": "https://www.cnaks.org/volumej.html",
             "headline": "TSL Volume J: Jargon File",
-            "url": "https://www.cnaks.org/volumej.html",
-            "sameAs": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-J-Jargon-File",
+            "url": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/J.md",
             "description": "A recursively enriched Jargon File tribute, mapping the unique vocabulary and acronym fluidity of the RIEM{} system.",
             "inLanguage": "en",
             "author": {
@@ -460,8 +450,7 @@ Share this Project: <a href="https://www.linkedin.com/sharing/share-offsite/?url
             "@type": "TechArticle",
             "@id": "https://www.cnaks.org/volumez.html",
             "headline": "TSL Volume Z: RIEM Training Manual",
-            "url": "https://www.cnaks.org/volumez.html",
-            "sameAs": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki/TSL-Volume-Z-RIEM-Training-Manual",
+            "url": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/volumes/Z.md",
             "description": "Structured exercises and certification logic for recursive cognition training in AI or human agents.",
             "inLanguage": "en",
             "author": {
