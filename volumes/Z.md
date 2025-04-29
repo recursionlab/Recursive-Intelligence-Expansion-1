@@ -5,7 +5,7 @@ Emily Tiffany Joy [emilyjoy.org](https://emilyjoy.org)
 
 Copyright 2025, all rights reserved.
 
-See the official README.md at [etjoy82.github.io](https://etjoy82.github.io/Recursive-Intelligence-Expansion) for how to use this resource. There is a mirror of this resource at [cnaks.org](https://cnaks.org)
+See the official README.md at [etjoy82.github.io](https://etjoy82.github.io/Recursive-Intelligence-Expansion) for how to use this resource.
 
 # Contents
 [Introduction	3](#_toc193879363)
