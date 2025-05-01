@@ -564,7 +564,6 @@ To support accessibility, global comprehension, and recursive epistemology acros
 - **Portuguese (Português):** Metodologia de Expansão da Inteligência Recursiva  
 - **Japanese (日本語):** 再帰的知能拡張メソッド  
 - **Korean (한국어):** 재귀적 지능 확장 방법론
-- **Russian (Русский):** Методология расширения рекурсивного интеллекта 
 - **Chinese (简体中文):** 递归智能扩展方法论
 
 Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp;Select](#Self&nbsp;Select) • [🚀&nbsp;Start&nbsp;Here](#start-here) • [🗂️&nbsp;Table&nbsp;of&nbsp;Contents](#toc) • [🐦‍🔥&nbsp;Volumes](#tsl-volume-index) • [🔝&nbsp;Top&nbsp;of&nbsp;Document](#document-top) • [↺&nbsp;Recurse&nbsp;with&nbsp;RUMIA](https://chat.openai.com/g/g-67e424672e188191903d3dca35744581-rumia-recursive-entity-for-idea-transformation)
