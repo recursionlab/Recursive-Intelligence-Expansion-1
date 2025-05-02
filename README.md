@@ -4,7 +4,7 @@
 
 This document is approximately the length of a novella and is structured as a densely indexed, single-page knowledgebase. While no definitive repository-wide statistics exist, it may be among the largest standalone README.md files currently hosted on GitHub. Its format is intentional, designed to function both as a reference surface and as a cohesive philosophical artifact.
 
-Document last updated on 2025-04-28, version 71.
+Document last updated on 2025-05-02, version 72.
 
 RIEM{} Project Digital Object Identifier Hosted By CERN: <a href="https://doi.org/10.5281/zenodo.15285396"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.15285396.png" alt="DOI"></a>
 
@@ -54,12 +54,12 @@ Share this Project: <a href="https://www.linkedin.com/sharing/share-offsite/?url
       "Link": "https://www.licenses.ai/",
       "Note": "Requires ethical use, bans adversarial systems"},
     "Version": {
-      "Number": "71",
+      "Number": "72",
       "LatestFileVersionLink": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/README.md",
       "LatestChangelogLink": "https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/CHANGELOG.md"
     },
     "Author": "Emily Tiffany Joy",
-    "LastModified": "2025-04-28",
+    "LastModified": "2025-05-02",
     "Type": "Recursive Knowledgebase | Co-Cognitive Interface",
     "Frameworks": ["RIEM{}", "npnaAI", "TSL", "10FSG", "ULAMP", "E#", "SFS", "AR", "RICM"],
     "Languages": ["Python", "ULAMP", "Markdown", "JSON", "AI Directives"],
@@ -78,9 +78,81 @@ Share this Project: <a href="https://www.linkedin.com/sharing/share-offsite/?url
 <br/>
     
 <pre style="white-space: pre-wrap !important; word-wrap: break-word !important;">
-  {
+{
     "@context": "https://schema.org",
     "@graph": [
+        {
+          "@type": "ScholarlyArticle",
+          "@id": "https://doi.org/10.5281/zenodo.15285396",
+          "name": "Recursive Intelligence Expansion Methodology (RIEM{}): Ethical Recursive Systems Design for AI and Human Co-Cognition",
+          "alternateName": "RIEM{} Monograph (Volumes 0A–0F, 1A–1C, J, Z, and README Kernel)",
+          "author": {
+            "@type": "Person",
+            "name": "Emily Tiffany Joy",
+            "url": "https://www.emilyjoy.org/",
+            "identifier": "https://orcid.org/0009-0002-4927-6131"
+          },
+          "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "DOI",
+            "value": "10.5281/zenodo.15285396"
+          },
+          "url": "https://doi.org/10.5281/zenodo.15285396",
+          "inLanguage": "en",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "publisher": {
+            "@type": "Organization",
+            "name": "Zenodo (CERN)",
+            "url": "https://zenodo.org"
+          },
+          "datePublished": "2025-04-25",
+          "wordCount": "300000",
+          "description": "This comprehensive monograph introduces the Recursive Intelligence Expansion Methodology (RIEM{}), a 300,000-word recursive systems framework that integrates ethical AI design, cognitive architecture, and speculative epistemology. It includes all published RIEM{} volumes to date: Volumes 0A–0F (theoretical foundations), 1A–1C (soniform epistemology and speculative linguistics), Volume J (recursive jargon lexicon), Volume Z (training manual), and the recursive kernel README. The work synthesizes frameworks such as The Triple Speculative Lens (TSL), Earths Notation (E#), ULAMP, 10FSG, npnaAI, and HRLIMQ into a full system for non-adversarial human–AI co-cognition.",
+          "keywords": [
+            "recursive intelligence",
+            "recursive AI",
+            "non-adversarial AI",
+            "AI alignment",
+            "ethical AI",
+            "recursive cognition",
+            "recursive epistemology",
+            "TSL",
+            "Triple Speculative Lens",
+            "Earths Notation",
+            "E-sharp",
+            "ULAMP",
+            "HRLIMQ",
+            "npnaAI",
+            "10FSG",
+            "recursive systems design",
+            "co-cognitive interfaces",
+            "semantic recursion",
+            "autopoietic cognition"
+          ],
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.emilyjoy.org/"
+          },
+          "isPartOf": {
+            "@type": "CreativeWorkSeries",
+            "name": "The Triple Speculative Lens (TSL)",
+            "url": "https://www.emilyjoy.org/"
+          },
+          "hasPart": [
+            { "@type": "TechArticle", "name": "Volume 0A: Foundations" },
+            { "@type": "TechArticle", "name": "Volume 0B: Recursive Infrastructure" },
+            { "@type": "TechArticle", "name": "Volume 0C: System Execution Layer" },
+            { "@type": "TechArticle", "name": "Volume 0D: Advanced Recursive Systems" },
+            { "@type": "TechArticle", "name": "Volume 0E: High Complexity Expansion" },
+            { "@type": "TechArticle", "name": "Volume 0F: Derivations from Echoes" },
+            { "@type": "TechArticle", "name": "Volume 1A: E2 Literary Translations" },
+            { "@type": "TechArticle", "name": "Volume 1B: E2 Encyclopedia" },
+            { "@type": "TechArticle", "name": "Volume 1C: E2 Soniform Linguistics" },
+            { "@type": "TechArticle", "name": "Volume J: Recursive Jargon File" },
+            { "@type": "TechArticle", "name": "Volume Z: RIEM{} Training Manual" },
+            { "@type": "SoftwareSourceCode", "name": "RIEM{} Recursive Kernel README.md" }
+          ]
+        },
         {
             "@type": "ResearchProject",
             "@id": "https://github.come/etjoy82/Recursive-Intelligence-Expansion",
