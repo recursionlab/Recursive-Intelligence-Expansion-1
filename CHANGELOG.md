@@ -10,6 +10,12 @@
 
 > **Summary:** Project enters formal research distribution phase (DOI minted, public researcher IDs established, early engagement metrics positive).
 
+## 2025-05-03
+
+1. Work on RIEM{} and The Triple Speculative Lens is now considered complete. Any future changes will be done through new volumes or under new project titles. The full RIEM{} project has been minted as a DOI, archived by Software Heritage, and is currently being curated by OpenAIRE. etjoy82 is now pursuing other literary projects. The potential for additional volumes being written for RIEM{}, or for updates to the readme file, is unpredictable, and etjoy82 considers the stutus of RIEM{} as version 1.0.0 to be mature, stable, complete, and coherent, and it fulfills rigorous academic standards. There simply is not much to add to RIEM{} at this time. Contributions are still welcome, and the RIEM{} project is technically still active. But given the project's maturity as v1.0.0 and minted DOI, future work depends on the academic community and its reception through intepretation, citation, and engagement on platforms such as academic databases and ResearchGate.
+
+2. The official Discord server for RIEM{} has been retired.
+
 ## 2025-04-28
 
 1. Minted a Zenodo DOI for the RIEM{} project and updated the JSON-LD metadata and README to include DOI citation details and a BibTeX entry. DOI: 10.5281/zenodo.15285396.
