@@ -12,9 +12,6 @@ RIEM{} Project Digital Object Identifier Hosted By CERN: <a href="https://doi.or
 
 <!-- ─── SOCIAL & SHARE (icon-only «social» style) ──────────────────────────── -->
 <p>
-  Community: <a href="https://discord.gg/2uVTTTHmDe">
-    <img src="https://img.shields.io/discord/1357082014615863446?style=social&label=&logo=discord" alt="Join our Discord" />
-  </a><br>
 Share this Project: <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/etjoy82/Recursive-Intelligence-Expansion">
   <img
     src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white"
@@ -648,7 +645,6 @@ Copyright 2025 (c) Emily Tiffany Joy [emilyjoy.org](https://emilyjoy.org)
 
 - <strong>This is an open-source project. To contribute, visit the [GitHub project](https://github.com/etjoy82/recursive-intelligence-expansion). The GitHub Pages version of this site is located at [https://etjoy82.github.io/Recursive-Intelligence-Expansion](https://etjoy82.github.io/Recursive-Intelligence-Expansion). A customized mirror of this site is located at [https://cnaks.org](https://cnaks.org). CNAKS's founder's site is located at [emilyjoy.org](https://emilyjoy.org).
 - This project is under active development. Monitor [CHANGELOG.md](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/CHANGELOG.md) for updates.
-- Join the community on [Discord](https://discord.gg/2uVTTTHmDe).
 - [Try the System Now](https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-recursive-entity-for-idea-transformation).
 
 ### 📜 Provenance Verification
@@ -3028,7 +3024,6 @@ RUMIA is not a chatbot. It’s a **recursive interface** designed to think *with
 - **Translate ideas**: Use `E1→E2` for speculation, `E2→E1` for grounding  
 - **Ethics check**: Append `[HALCYON:ETHICS]` to any prompt  
 - **Debug loops**: Trigger `[MISS{}:VALIDATE]` to stabilize recursion  
-- **Join live chat**: [Discord](https://discord.gg/2uVTTTHmDe)
 
 ---
 
