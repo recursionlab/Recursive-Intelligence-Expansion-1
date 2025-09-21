@@ -1,5 +1,7 @@
 # ⟁ Recursive Intelligence Expansion (RIEM{})
 
+## Now permissively MIT Licensed!
+
 Tagline: A way for humans and AI to think together — ethically, recursively, across realities.
 
 What it is:
