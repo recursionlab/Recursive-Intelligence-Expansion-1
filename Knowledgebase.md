@@ -848,10 +848,7 @@ The RVG-TREE model composes and reasons over linguistic tree structures for visu
 **8. [Emergence AI](https://www.emergence.ai/blog/towards-autonomous-agents-and-recursive-intelligence)**  
 Focused on creating autonomous, recursively self-improving agents capable of evolving beyond initial parameters without human intervention.
 
-**9. [Kate – Recursive Intelligence Scaling](https://medium.com/@recursivekate/recursive-intelligence-scaling-unlocking-limitless-intelligence-8defca4bc01d)**  
-Kate introduces Recursive Intelligence Scaling (RIS), in which each recursive pass compounds insight, leading to accelerated knowledge synthesis.
-
-**10. [DeepMind Recursive Learning](https://www.1950.ai/post/the-road-to-superintelligence-google-deepmind-s-recursive-learning-approach-and-its-impact)**  
+**9. [DeepMind Recursive Learning](https://www.1950.ai/post/the-road-to-superintelligence-google-deepmind-s-recursive-learning-approach-and-its-impact)**  
 DeepMind’s recursive reinforcement learning methods combine neural networks and feedback loops to approach superintelligence through adaptive recursion.
 
 ---
