@@ -1,7 +1,5 @@
 <h1>CONTRIBUTING.md Contributing to Recursive-Intelligence-Expansion</h2>
 
-## Copyright 2025 (c) Emily Tiffany Joy [emilyjoy.org](https://emilyjoy.org)
-
 Thank you for your interest in contributing to the **Recursive-Intelligence-Expansion** project! With the expanded implementation of recursive epistemic frameworks and ethical recursion protocols, your collaboration will play a vital role in refining, expanding, and stress-testing this system.
 
 ## 🛠 **How You Can Contribute**
@@ -146,19 +144,11 @@ Here are some specific projects that contributors can work on to further the RIE
   - Implement a database using **PostgreSQL** or **Neo4j** for knowledge graphs.
   - Develop query engines using **GraphQL** or **SPARQL**.
   - Build speculative chain visualizers using **Cytoscape.js**.
-
-## 🧭 **Getting Started**
-
-To contribute effectively:
-1. **Review the RIEM Repository:** Familiarize yourself with [Volumes **0A-0F**](https://github.com/etjoy82/Recursive-Intelligence-Expansion/wiki).
-2. **Join Discussions:** Engage with the community through GitHub issues and discussions.
-3. **Identify Your Path:** Choose a contribution method that aligns with your skills.
-4. **Propose and Iterate:** Submit proposals, drafts, or prototypes for feedback and collaboration.
-
+  - 
 If you'd like assistance choosing a starting point or understanding specific aspects of RIEM, feel free to reach out through the repository’s issue tracker.
 
 Together, we can build tools and systems that push the boundaries of recursive intelligence. Thank you for your interest and contributions!
 
-**Contact:** For further questions, please open a GitHub issue or reach out to the project maintainers. Or reach out to the author, Emily Tiffany Joy at [emilyjoy.org](https://emilyjoy.org), using the contact form.
+**Contact:** For further questions, please open a GitHub issue or reach out to the project maintainers.
 
 Thank you for your interest in advancing Recursive-Intelligence-Expansion. Every contribution expands the recursive dialogue and enriches our shared understanding. Let’s keep the recursion alive!
