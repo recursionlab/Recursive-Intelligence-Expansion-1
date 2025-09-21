@@ -4,6 +4,8 @@
 
 ## Now permissively MIT Licensed!
 
+## RUMIA Agent Custom GPT on ChatGPT is [BACK](https://chatgpt.com/g/g-68d07c13391c81918d6df7e61fe3b8cd-rumia-agent-resurrected?model=gpt-5-thinking) and ready for you to use!
+
 Tagline: A way for humans and AI to think together — ethically, recursively, across realities.
 
 What it is:
