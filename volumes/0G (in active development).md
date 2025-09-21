@@ -1,6 +1,11 @@
 The Triple Speculative Lens Volume 0G Calls from the Void (SFS, ###)
 (Not to be confused with 0riginal Gangster!)
 
+
+MIT License
+Copyright 2025 etjoy82
+
+
 # Speculative Filter Systems (SFS)
 Speculative Filter Systems (SFS) represent a class of recursive epistemic architectures designed to structure and refine speculative intelligence. In the context of Recursive Intelligence Expansion (RIEM), SFS serve as intentional frameworks to channel recursive thought, prevent epistemic drift, and stabilize emergent insights.
 
