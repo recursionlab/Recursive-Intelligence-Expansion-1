@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 # ⟁ Recursive Intelligence Expansion (RIEM{})
 
 ## Now permissively MIT Licensed!
