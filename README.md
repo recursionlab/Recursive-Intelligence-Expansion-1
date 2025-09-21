@@ -32,7 +32,7 @@ Hold contradictions — let tension guide you.
 
 Stay ethical — aim for care, transparency, and resonance.
 
-📖 Want More?
+## 📖 Want More?
 
 This is just the overview. The full recursive library lives in:
 [Knowledgebase.md](Knowledgebase.md) and [./volumes](./volumes).
