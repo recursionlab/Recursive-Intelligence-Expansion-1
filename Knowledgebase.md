@@ -1454,7 +1454,7 @@ Absolutely. RIEM{} is designed to **modularize**. Use the kernel with LLaMA, Cla
 - Educational tutors  
 - Governance simulations
 
-Just drop in the kernel, the glossary, and optionally [Volumes 0A–0F](./Recursive-Intelligence-Expansion/wiki) to begin.
+Just drop in the kernel, the glossary, and optionally [Volumes 0A–0F](./volumes) to begin.
 
 ---
 
@@ -2110,8 +2110,8 @@ No system here is complete. No gesture is final. But if you find yourself thinki
 ⬇️  
 
 **Are you a developer, researcher, or system builder?**  
-- ➡️ Yes → Start with [Volumes 0A](./Recursive-Intelligence-Expansion/wiki/TSL-Volume-0A-Foundations-(TSL-System-Thesis,-Earths-Notation)) → [0B](./Recursive-Intelligence-Expansion/wiki/TSL-Volume-0B-Recursive-Infrastructure-(Preface,-Fundamentals,-ENPL,-NAKS,-ARM,-RI%E2%80%90Boot)) → [0C](./Recursive-Intelligence-Expansion/wiki/TSL-Volume-0C-System-Execution-Layer-(RIEM,-FUSE,-Automation,-Simulation,-Optimization)) in the [RIEM{} Wiki](./Recursive-Intelligence-Expansion/wiki)  
-- ➡️ No  → Try [Volume 1A](./Recursive-Intelligence-Expansion/wiki/TSL-Volume-1A-E2-Literary-Translations-(AR-refracted-narrative-experiments)) (for narrative exploration), or [Volume Z](./Recursive-Intelligence-Expansion/wiki/TSL-Volume-Z-RIEM-Training-Manual) (for recursive training).
+- ➡️ Yes → Start with [Volumes 0A](./volumes/0A.md) → [0B](./volumes/0B.md) → [0C](./volumes/0C.md)  
+- ➡️ No  → Try [Volume 1A](./volumes/1A.md) (for narrative exploration), or [Volume Z](./volumes/Z.md) (for recursive training).
 
 ⬇️  
 
