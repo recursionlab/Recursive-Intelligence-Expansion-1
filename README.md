@@ -41,30 +41,6 @@ To support accessibility, global comprehension, and recursive epistemology acros
 - **Russian (Русский):** Методология расширения рекурсивного интеллекта 
 - **Chinese (简体中文):** 递归智能扩展方法论
 
-
-
----
-
-<h2 id="preamble">🧑‍⚖️ Preamble</h2>
-
-- <strong>This is an open-source project. To contribute, visit the [GitHub project](./recursive-intelligence-expansion).
-- This project is under active development. Monitor [CHANGELOG.md](./Recursive-Intelligence-Expansion/blob/main/CHANGELOG.md) for updates.
-
-### 📜 Provenance Verification
-
-[![SHA256 Verified](https://img.shields.io/badge/SHA256%20Manifest-Available-brightgreen?style=for-the-badge&logo=hashnode)](./Recursive-Intelligence-Expansion/tree/main/development-history-by-etjoy82)
-[![PAR2 Archive](https://img.shields.io/badge/PAR2%20Redundancy-Enabled-blue?style=for-the-badge&logo=veritas)](./Recursive-Intelligence-Expansion/tree/main/development-history-by-etjoy82)
-[![Document Provenance](https://img.shields.io/badge/DOCX%20History%20Preserved-Yes-purple?style=for-the-badge&logo=microsoftword)](./Recursive-Intelligence-Expansion/tree/main/development-history-by-etjoy82)
-
-> The [`development-history-by-etjoy82`](./Recursive-Intelligence-Expansion/tree/main/development-history-by-etjoy82) directory contains  
-> 🔹 full `.docx` file version histories  
-> 🔹 a complete `SHA-256 manifest.txt`  
-> 🔹 `PAR2` parity volumes for redundancy validation
-
-These files serve as a **cryptographic authorship record** and provide **machine-verifiable integrity** for the origin, continuity, and intellectual authorship of Recursive Intelligence Expansion (RIEM{}).
-
-
-
 ---
 
 <h2 id="about-description">🧲 About the Project</h2>
