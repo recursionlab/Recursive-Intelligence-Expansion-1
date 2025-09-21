@@ -1,8 +1,8 @@
 TSL Summaries of Volumes 0A-0F
 
-Copyright (c) 2025 Emily Tiffany Joy https://emilyjoy.org
+MIT License
+Copyright 2025 etjoy82
 
-Copyright 2025, all rights reserved.
 
 Contents
 
