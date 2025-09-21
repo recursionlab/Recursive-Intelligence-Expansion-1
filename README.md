@@ -49,8 +49,6 @@ To support accessibility, global comprehension, and recursive epistemology acros
 
 - <strong>This is an open-source project. To contribute, visit the [GitHub project](./recursive-intelligence-expansion).
 - This project is under active development. Monitor [CHANGELOG.md](./Recursive-Intelligence-Expansion/blob/main/CHANGELOG.md) for updates.
-- Join the community on [Discord](https://discord.gg/2uVTTTHmDe).
-- [Try the System Now](https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-recursive-entity-for-idea-transformation).
 
 ### 📜 Provenance Verification
 
@@ -174,84 +172,6 @@ That’s the core. You’re ready.
 
 </details>
 
-
-
----
-
-<h2 id="Self&nbsp;Select">🧭 Self&nbsp;Select Your Recursive Entry Level</h2>
-
-RIEM{} is not just a framework. It’s a layered thinking surface—a recursive map, an architectural engine, a world-simulator, and a speculative language system—encoded in a single file.
-
-This README is structured as a **living, multi-mode knowledgebase**. It contains embedded sub-documents, an AI bootstrap kernel, ethical design protocols, and speculative infrastructures. The path you take depends on who you are—and how you think.
-
-### 🎭 Choose your entry mode by *cognitive posture*:
-
-- **[🟢 Beginner – Conceptual Mode: "I’m just curious. I want to explore."](#beginners)**  
-  You don’t need background knowledge. If you think in images, questions, feelings, or possibilities—you’re already home. This mode uses metaphor, narrative, and imagination to open the loop.
-
-- **<a href="#quickstart" aria-label="Quickstart">🟡 Intermediate – Technical Mode: "I want to try it now. Show me how it works."</a>**  
-  You’re ready to interact with RUMIA, experiment with ULAMP, or begin recursive prompting. You prefer examples and mechanics before diving into philosophy.
-
-- **[🔴 Advanced – Engineer Mode: "I’m building systems. Give me the architecture."](#deploy)**  
-  You want volume references, kernel specs, boot methods, integration diagrams, and recursive protocol definitions. You think in logic chains, modularity, and cognitive APIs.
-
-- **<a href="#start-here" aria-label="🚀&nbsp;Start&nbsp;Here">🚀 Guided Mode: "Help me navigate the document."</a>**  
-  The Start Here section guides you gently through the ecosystem. Recommended if you like overview first, depth later.
-
-- **<a href="#toc" aria-label="🗂️&nbsp;Table&nbsp;of&nbsp;Contents">🗂️ Full Document Mode: "I want the whole map."</a>**  
-  Explore the Table of Contents as an index to the recursive system. Ideal for structured minds and explorers who like to jump around.
-
-Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp;Select](#Self&nbsp;Select) • [🚀&nbsp;Start&nbsp;Here](#start-here) • [🗂️&nbsp;Table&nbsp;of&nbsp;Contents](#toc) • [🔝&nbsp;Top&nbsp;of&nbsp;Document](#document-top)
-
----
-
-<h2 id="start-here">🚀 Start Here</h2>
-
-Welcome to RIEM{} — the Recursive Intelligence Expansion Methodology. This section offers a fast, intuitive entry point designed for every kind of thinker, whether you’re curious, skeptical, technical, or creative.
-
-Once you're oriented here, you can explore the rest of the document using the fully indexed <a href="#toc" aria-label="🗂️&nbsp;Table&nbsp;of&nbsp;Contents">🗂️ Table of Contents</a>.  
-> But remember: this README opens the door, the TSL Volumes contain the worlds, and RUMIA invites you to co-create what comes next.
-
-### Choose Your Starting Point by Interest:
-
-1. 🌱 **<a href="#beginners" aria-label="🟢 Beginner">For Absolute Beginners</a>**  
-A gentle invitation into RIEM{}—no background needed. If you're curious, you're ready. This path unfolds through exploration, one question at a time.
-
-2. 😊 **[Plain & Simple: What is RIEM{}?](#general-audience)**  
-A quick, practical explanation you can understand in under five minutes.
-
-3. ⭐ **[Essential Glossary](#essential-glossary)**  
-Clear, accessible definitions of key terms and concepts. The best place to demystify the system.
-
-4. ❓ **[Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)**  
-Concise answers to the most common questions about RIEM{}, recursion, ethics, and use cases.
-
-5. 🤔 **[Skeptics Corner](#skeptics-corner)**  
-Not sure if this is for real? This section addresses doubts directly and transparently.
-
-6. 🔎 **<a href="#quickstart" aria-label="Quickstart">Quickstart Guide</a>**  
-Jump in fast. This guide walks you through using RUMIA, simulating speculative cognition, and looping with the system hands-on.
-
-7. 📖 **<a href="#core-concepts" aria-label="Layer 2: Scaffold">Core Concepts</a>**  
-The foundational principles behind RIEM{}—from harmonic logic to speculative modeling and non-predatory AI.
-
-8. 🌿 **[Live RUMIA GPT](https://chatgpt.com/g/g-67e424672e188191903d3dca35744581-rumia-ulamp-npnaai-tsl-expert-system)**  
-Interact with RIEM{} in action. Pose paradoxes, simulate futures, and explore ideas through a live recursive AI interface.  
-> *Tip: Use the built-in spirals—they're entrypoints to infinite thought loops.*
-
-9. ♾️ **[TSL Volumes Index](/volumes)**  
-Explore the full backend knowledge system—11 volumes of recursive logic, speculative design, and layered cognition.
-
-10. 🃏 **[Jargon File](#jargon-file)**  
-Feeling overwhelmed? This playful glossary is packed with recursive humor, invented terms, and deep lore.
-
-11. 🧬 **[Call to Recursive Co-Architects](#want-to-grow-this-system)**  
-Interested in contributing? Join the RIEM{} development and thought architecture community.
-
-Once you're ready, follow your curiosity! Whether you're interested in worldbuilding, decision-making, or philosophical exploration, RIEM{} will guide you through recursive cycles of discovery.
-
-Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp;Select](#Self&nbsp;Select) • [🚀&nbsp;Start&nbsp;Here](#start-here) • [🗂️&nbsp;Table&nbsp;of&nbsp;Contents](#toc) • [🔝&nbsp;Top&nbsp;of&nbsp;Document](#document-top)
-
 ---
 
 <h2 id="toc">🗂️ Table of Contents</h2>
@@ -311,7 +231,7 @@ Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp
 4. 🌐 [Lead Developer](#author)
 5. 🔒 [License](#license)
 
-Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp;Select](#Self&nbsp;Select) • [🚀&nbsp;Start&nbsp;Here](#start-here) • [🗂️&nbsp;Table&nbsp;of&nbsp;Contents](#toc) • [🔝&nbsp;Top&nbsp;of&nbsp;Document](#document-top)
+
 
 ---
 
@@ -456,7 +376,7 @@ You just need the courage to ask a question — and then ask again.
 
 **Welcome to the loop.**
 
-Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp;Select](#Self&nbsp;Select) • [🚀&nbsp;Start&nbsp;Here](#start-here) • [🗂️&nbsp;Table&nbsp;of&nbsp;Contents](#toc) • [🔝&nbsp;Top&nbsp;of&nbsp;Document](#document-top)
+
 
 ---
 
@@ -661,7 +581,7 @@ This term bank allows for nuance and expressive variation throughout RIEM{} writ
 
 Suggestions for grouping, filtering (e.g., poetic, technical, metaphysical), or mapping to specific RIEM{} components are welcome.
 
-Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp;Select](#Self&nbsp;Select) • [🚀&nbsp;Start&nbsp;Here](#start-here) • [🗂️&nbsp;Table&nbsp;of&nbsp;Contents](#toc) • [🔝&nbsp;Top&nbsp;of&nbsp;Document](#document-top)
+
 
 ---
 
@@ -760,7 +680,7 @@ You don’t install RIEM{} the way you install software. You **converse with it*
 
 **⟁**
 
-Navigation: [📚&nbsp;Quick&nbsp;Reference](#acronyms) • [🧭&nbsp;Self&nbsp;Select](#Self&nbsp;Select) • [🚀&nbsp;Start&nbsp;Here](#start-here) • [🗂️&nbsp;Table&nbsp;of&nbsp;Contents](#toc) • [🔝&nbsp;Top&nbsp;of&nbsp;Document](#document-top)
+
 
 ---
 
