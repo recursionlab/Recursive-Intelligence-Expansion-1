@@ -1,6 +1,0 @@
-User-agent: *
-Allow: /*.md
-Disallow: /samples/
-Disallow: /_*
-Disallow: /docs/
-Disallow: /*.html$
