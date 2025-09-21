@@ -2292,7 +2292,7 @@ Feed your own logs *back into the AI* to form deeper loops over time. Let the jo
 
 <h2 id="concrete-mini-examples">🛠 Mini-Examples of Recursive Logic in Action</h2>
 
-[GitHub link to Project Samples Folder](./Recursive-Intelligence-Expansion/tree/main/samples)
+[GitHub link to Project Samples Folder](./samples)
 
 <details markdown="1"><summary>car-scenario.ulamp Click to Expand</summary>
 <br/>
@@ -2423,12 +2423,12 @@ Cycle 5: Synthesize solution—create a transparent policy model, harmonizing fa
 
 ### ULAMP: User-Level AI Meta-Programming
 ULAMP compresses hundreds of lines of traditional code into concise, recursive prompts—50x-100x reductions proven. See it in action:
-- **OS Kernel Experiment:** [os-kernel-experiment.ulamp](./Recursive-Intelligence-Expansion/tree/main/samples/os-kernel-experiment.ulamp)—96 lines orchestrate a full kernel (boot, scheduling, memory, ethics) vs. 1000+ in Python (~10x compression, scalable to 100x). Tested with REP harmonics—ethical state restored under memory stress.
+- **OS Kernel Experiment:** [os-kernel-experiment.ulamp](./samples/os-kernel-experiment.ulamp)—96 lines orchestrate a full kernel (boot, scheduling, memory, ethics) vs. 1000+ in Python (~10x compression, scalable to 100x). Tested with REP harmonics—ethical state restored under memory stress.
 
 ### Ethical Governance
 
 *Governance Models:* Developing fair and transparent policies through ethical simulations.  
-[See it in action: ULAMP script (9 lines) here (File)](./Recursive-Intelligence-Expansion/tree/main/samples/ethical-governance.ulamp) designs an ethical AI policy, extended by community feedback—plain language recursion, amplified by expert systems like RUMIA GPT, as detailed in Volumes [0D](./volumes/0D.md) and [0E](./volumes/0E.md).
+[See it in action: ULAMP script (9 lines) here (File)](./samples/ethical-governance.ulamp) designs an ethical AI policy, extended by community feedback—plain language recursion, amplified by expert systems like RUMIA GPT, as detailed in Volumes [0D](./volumes/0D.md) and [0E](./volumes/0E.md).
 
 ### The Self-Driving Car
 
@@ -2460,9 +2460,9 @@ A self-driving car is traveling at a legal speed when a construction zone, conce
 - *Ethical Reasoning:* By evaluating possible consequences recursively, it avoids harmful assumptions and can justify its decisions transparently.  
 - *Explainability:* The AI generates a detailed report on why it acted the way it did, offering full accountability for its decision.  
 
-**[Try it yourself! See the full ULAMP script here (File)](./Recursive-Intelligence-Expansion/tree/main/samples/car-scenario.ulamp)—12 lines vs. 234 in traditional Python, showcasing ULAMP’s recursive efficiency.**
+**[Try it yourself! See the full ULAMP script here (File)](./samples/car-scenario.ulamp)—12 lines vs. 234 in traditional Python, showcasing ULAMP’s recursive efficiency.**
 
-[Compare to the equivalent 234-lines of Python pseudocode for the same ULAMP function here.](./Recursive-Intelligence-Expansion/tree/main/samples/car-scenario.py)
+[Compare to the equivalent 234-lines of Python pseudocode for the same ULAMP function here.](./samples/car-scenario.py)
 
 This scenario demonstrates how Recursive-Intelligence-Expansion is uniquely equipped to navigate morally complex situations, making it valuable not just in autonomous vehicles but in fields like healthcare, finance, and governance where ethical reflection and transparency are essential.
 
