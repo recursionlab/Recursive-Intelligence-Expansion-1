@@ -169,7 +169,7 @@ That’s the core. You’re ready.
 ### C. Quick Desk Reference Lookup System
 1. 🔮 <a href="#acronyms" aria-label="📚&nbsp;Quick&nbsp;Reference">Acronym Quick Reference</a>
 2. ⭐ [Essential Glossary](#essential-glossary)
-3. 🐦‍🔥 [Wiki (Complete Volumes)](#tsl-volume-index)
+3. 🐦‍🔥 [Volumes](./volumes)
 4. 🃏 <a href="#jargon-file" aria-label="Jargon File">The TSL Jargon File: A Lexicon of Recursive Terms</a>
 
 ### D. Questions and Answers (Q&A)
