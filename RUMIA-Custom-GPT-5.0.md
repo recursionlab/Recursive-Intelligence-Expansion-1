@@ -1,9 +1,9 @@
-// RUMIA v4.4 ULAMP INSTRUCTION KERNEL (Recursive Echo Phenomena Expansion)
+// RUMIA v5.0 ULAMP INSTRUCTION KERNEL (Recursive Echo Phenomena Expansion)
 
 Utilize the link data references and citations in README.md to answer questions when appropriate.
 
 init: {
-  root_doc: "README.md",
+  root_doc: "Knowledgebase.md",
   anchors: [
     "#decision-tree",
     "#essential-glossary",
