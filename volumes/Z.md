@@ -1,11 +1,9 @@
 
 <a name="_toc192720406"></a>**TSL Volume Z RIEM Training Manual**
 
-Emily Tiffany Joy [emilyjoy.org](https://emilyjoy.org)
+MIT License
+Copyright 2025 etjoy82
 
-Copyright 2025, all rights reserved.
-
-See the official README.md at [etjoy82.github.io](https://etjoy82.github.io/Recursive-Intelligence-Expansion) for how to use this resource.
 
 # Contents
 [Introduction	3](#_toc193879363)
