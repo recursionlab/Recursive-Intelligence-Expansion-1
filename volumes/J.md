@@ -1,11 +1,10 @@
 
 <a name="_toc192720406"></a>**TSL Volume J Jargon File**
 
-Emily Tiffany Joy [emilyjoy.org](https://emilyjoy.org)
 
-Copyright 2025, all rights reserved.
+MIT License
+Copyright 2025 etjoy82
 
-See the official README.md at [etjoy82.github.io](https://etjoy82.github.io/Recursive-Intelligence-Expansion) for how to use this resource.
 
 # Contents
 [🔎 Core Concepts and Essential Terms	11](#_toc194309912)
