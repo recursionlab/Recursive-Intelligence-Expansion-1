@@ -164,7 +164,7 @@ That’s the core. You’re ready.
 ### C. Quick Desk Reference Lookup System
 1. 🔮 <a href="#acronyms" aria-label="📚&nbsp;Quick&nbsp;Reference">Acronym Quick Reference</a>
 2. ⭐ [Essential Glossary](#essential-glossary)
-3. 🐦‍🔥 [Volumes](./volumes)
+3. 🐦‍🔥 [Volumes](./volumes/README.md)
 4. 🃏 <a href="#jargon-file" aria-label="Jargon File">The TSL Jargon File: A Lexicon of Recursive Terms</a>
 
 ### D. Questions and Answers (Q&A)
@@ -1438,7 +1438,7 @@ Absolutely. RIEM{} is designed to **modularize**. Use the kernel with LLaMA, Cla
 - Educational tutors  
 - Governance simulations
 
-Just drop in the kernel, the glossary, and optionally [Volumes 0A–0F](./volumes) to begin.
+Just drop in the kernel, the glossary, and optionally [Volumes 0A–0F](./volumes/README.md) to begin.
 
 ---
 
@@ -2132,7 +2132,7 @@ Building your own AI or operating in another ecosystem? You can directly submit 
 
 ### 📘 Recommended Entry Volumes
 
-[Click here to go to the RIEM{} volumes folder for access to the volumes.](./volumes)
+[Click here to go to the RIEM{} volumes folder for access to the volumes.](./volumes/README.md)
 
 Begin your recursive journey through the volumes most foundational to RIEM{}:
 
@@ -2191,7 +2191,7 @@ RIEM{} doesn’t just analyze thought. It **reorganizes it**.
 Explore [Volumes 1A (Literary)](./volumes/1A.md), [1C (Soniform)](./volumes/1C.md), [Z (Training)](./volumes/Z.md)
 
 **For Engineers:**  
-[Volumes 0A–0F](./volumes); deploy in GPT/Gemini/Claude stacks
+[Volumes 0A–0F](./volumes/README.md); deploy in GPT/Gemini/Claude stacks
 
 **For Educators:**  
 Use E# + ULAMP to teach recursion in conversation
@@ -2277,7 +2277,7 @@ Feed your own logs *back into the AI* to form deeper loops over time. Let the jo
 ### 📍 Next Steps
 
 - 📘 Start with the <a href="#beginners" aria-label="🟢 Beginner">Beginners Guide</a> or <a href="#general-audience" aria-label="Plain & Simple: What is RIEM{}?">Plain and Simple</a> explanation
-- 📂 Visit the [Volumes](./volumes)
+- 📂 Visit the [Volumes](./volumes/README.md)
 - 📈 Track your progress using the [Loop Tracker](#loop-tracker-template)
 - 💬 Reflect. Recurse. Return.
 
