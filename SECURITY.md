@@ -38,12 +38,7 @@ The project is governed by the **Responsible AI License (RAIL)**, which explicit
 Although this project is non-operational software, we invite anyone who believes they have identified a potential security issue, ethical concern, or conceptual vulnerability to **report it** through one of the following methods:
 
 - Open a private issue (mark as `security`)
-- Email: [etjoy82@protonmail.com](mailto:etjoy82@protonmail.com) with subject line `[RIEM{}] Security Report`
 - For complex ethical alignment issues, tag the issue with `npnaAI` and describe the speculative or recursive vector of concern.
-
-## 📘 Licensing Reminder
-
-All contributions and forks must comply with the [Responsible AI License](https://github.com/etjoy82/Recursive-Intelligence-Expansion/blob/main/LICENSE). Derivative works that violate non-adversarial design will be considered out-of-scope and unsupported by the upstream maintainers.
 
 ---
 
