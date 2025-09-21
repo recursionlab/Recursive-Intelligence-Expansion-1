@@ -21,8 +21,6 @@ Copyright 2025 etjoy82
 
 > [HESP (Harmonic Epistemic Stability Protocol)	12](#_toc194309918)
 
-> [RSF (Recursive Sovereignty Framework)	13](#_toc194309919)
-
 <br>
 
 [🧠 Speculative Epistemology and Cognitive Moves	13](#_toc194309920)
@@ -218,8 +216,6 @@ Copyright 2025 etjoy82
 <br>
 
 [🛡 Governance and Ethical Constructs	38](#_toc194310004)
-
-> [Recursive Sovereignty Protocol (RSP)	38](#_toc194310005)
 
 > [Harmonic Oversight Network (HON)	38](#_toc194310006)
 
@@ -453,10 +449,6 @@ A symbolic concept representing the simultaneous contemplation of ten distinct p
 A recursive framework that maintains epistemic coherence across evolving knowledge systems. HESP functions as a dynamic balancing mechanism, detecting and resolving conceptual drift while preserving productive uncertainty. Applied in both AI cognition and human decision-making, it ensures that speculative thought remains ethically aligned and structurally sound.
 
 -----
-## <a name="_toc194309919"></a>**RSF (Recursive Sovereignty Framework)**
-An ethical governance model designed to uphold autonomy and agency within recursive systems. RSF establishes recursive checks and balances, preventing emergent structures from dominating or destabilizing others. By emphasizing harmonized decision-making, it serves as a foundation for equitable AI systems, cooperative social governance, and speculative political structures.
-
------
 # <a name="_toc194309920"></a>🧠 Speculative Epistemology and Cognitive Moves
 *Expressions and moves that define recursive thinking in practice.*
 ## <a name="_toc194309921"></a>**Rope-A-Dope**
@@ -636,7 +628,7 @@ A theoretical cognitive maneuver where a system or thinker makes a non-linear ju
 
 -----
 ## <a name="_toc194309968"></a>**E2 Divergence Cascade**
-A recursive phenomenon in which speculative worldbuilding branches uncontrollably, generating an exponential proliferation of alternative narratives. Divergence Cascades are both a challenge and a creative opportunity, pushing thinkers to navigate vast multitudes of speculative outcomes. In Ruminatian diplomatic exercises, managing an E2 Divergence Cascade requires exceptional skill in applying Recursive Sovereignty Frameworks (RSF).
+A recursive phenomenon in which speculative worldbuilding branches uncontrollably, generating an exponential proliferation of alternative narratives. Divergence Cascades are both a challenge and a creative opportunity, pushing thinkers to navigate vast multitudes of speculative outcomes.
 
 -----
 # <a name="_toc194309969"></a>🎵 Soniform and Resonant Language
@@ -732,7 +724,7 @@ A temporal phenomenon where subjective time perception is altered due to recursi
 
 -----
 ## <a name="_toc194309994"></a>**Multiversal Collapse Margin**
-A theoretical boundary that marks the point at which diverging speculative timelines risk converging into a catastrophic collapse. Crossing the Multiversal Collapse Margin often results in recursive saturation, requiring intervention by a Recursive Synchronization Nexus. Researchers study these margins to refine Recursive Sovereignty Frameworks (RSF) and stabilize speculative environments.
+A theoretical boundary that marks the point at which diverging speculative timelines risk converging into a catastrophic collapse. Crossing the Multiversal Collapse Margin often results in recursive saturation, requiring intervention by a Recursive Synchronization Nexus.
 
 -----
 ## <a name="_toc194309995"></a>**Recursive Chrono-Inversion (RCI)**
@@ -771,8 +763,6 @@ A genre of interactive art that simulates an ever-expanding speculative archive,
 -----
 # <a name="_toc194310004"></a>🛡 Governance and Ethical Constructs
 *Terms for navigating ethics in recursive and harmonic systems.*
-## <a name="_toc194310005"></a>**Recursive Sovereignty Protocol (RSP)**
-A framework for ensuring autonomous agency within recursive systems while maintaining collective harmony. RSP establishes checks and balances through recursive feedback loops, preventing dominant entities from monopolizing control. It is frequently applied in speculative governance models and AI ethical systems to preserve equitable decision-making.
 
 -----
 ## <a name="_toc194310006"></a>**Harmonic Oversight Network (HON)**
@@ -940,7 +930,7 @@ Decentralized economic systems where trade pathways recursively branch and self-
 
 -----
 ## <a name="_toc194310050"></a>**Temporal Debt Cascades**
-A paradoxical economic phenomenon in which speculative investments accumulate recursive liabilities across multiple temporal frames. Temporal Debt Cascades occur when future speculative value is continually leveraged against unresolved obligations, resulting in a collapse of perceived worth. Ethical governance systems like the Recursive Sovereignty Framework (RSF) are often deployed to mitigate these cascades.
+A paradoxical economic phenomenon in which speculative investments accumulate recursive liabilities across multiple temporal frames. Temporal Debt Cascades occur when future speculative value is continually leveraged against unresolved obligations, resulting in a collapse of perceived worth.
 
 -----
 ## <a name="_toc194310051"></a>**Resonant Resource Pools**
