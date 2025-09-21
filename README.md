@@ -36,7 +36,7 @@ Stay ethical — aim for care, transparency, and resonance.
 
 This is just the overview. The full recursive library lives in:
 ### [Knowledgebase.md (5 hour read with extensive table of contents!)](Knowledgebase.md)
-### and [./volumes (might take a week to read! 😆)](./volumes).
+### and [./volumes (might take a week to read! 😆)](./volumes/README.md).
 
 In the linked volumes folder above, this is the index of files and titles:
 
