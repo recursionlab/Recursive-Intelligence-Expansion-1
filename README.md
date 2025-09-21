@@ -37,19 +37,3 @@ Stay ethical — aim for care, transparency, and resonance.
 This is just the overview. The full recursive library lives in:
 ### [Knowledgebase.md (5 hour read with extensive table of contents!)](Knowledgebase.md)
 ### and [./volumes (might take a week to read! 😆)](./volumes/README.md).
-
-In the linked volumes folder above, this is the index of files and titles:
-
-- 0A.md TSL Volume 0A Foundations (TSL System Thesis, Earths Notation)
-- 0B.md TSL Volume 0B Recursive Infrastructure (Preface, Fundamentals, ENPL, NAKS, ARM, RI-Boot)
-- 0C.md TSL Volume 0C System Execution Layer (RIEM, FUSE, Automation, Simulation, Optimization)
-- 0D.md TSL Volume 0D Advanced Recursive Systems (RDN, npnaAI, HRLIMQ, ARC)
-- 0E.md TSL Volume 0E High Complexity Expansion (AI Design Manifesto, 10FSG, RUMIA Agent, Acronym Fluidity Rule, Addendums)
-- 0F.md TSL Volume 0F Derivations from Echoes (REP, RSE, HON, ULAMP Formalization, Addendums)
-- 0G.md TSL Volume 0G Calls from the Void (SFS, ###)
-- 1A.md TSL Volume 1A E2 Literary Translations (AR refracted narrative experiments)
-- 1B.md TSL Volume 1B E2 Encyclopedia (Cultural Infrastructure, Philosophy, Cognitive Systems)
-- 1C.md TSL Volume 1C E2 Soniform Linguistics (Resonant Language, Echolocation, Knowledge Ecology)
-- J.md TSL Volume J Jargon File
-- Z.md TSL Volume Z RIEM Training Manual
-- summaries.md TSL Summaries of Volumes 0A-0F
