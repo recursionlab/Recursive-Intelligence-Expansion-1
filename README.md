@@ -35,4 +35,4 @@ Stay ethical — aim for care, transparency, and resonance.
 📖 Want More?
 
 This is just the overview. The full recursive library lives in:
-[Knowledgebase.md](Knowledgebase) and [/volumes/](Volumes).
+[Knowledgebase.md](Knowledgebase) and [./volumes](./volumes).
