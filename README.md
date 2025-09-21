@@ -35,10 +35,9 @@ Stay ethical — aim for care, transparency, and resonance.
 ## 📖 Want More?
 
 This is just the overview. The full recursive library lives in:
-[Knowledgebase.md](Knowledgebase.md) and [./volumes](./volumes).
+### [Knowledgebase.md](Knowledgebase.md) and [./volumes](./volumes).
 
 In the linked volumes folder above, this is the index of files and titles:
-summaries.md TSL Summaries of Volumes 0A-0F
 
 - 0A.md TSL Volume 0A Foundations (TSL System Thesis, Earths Notation)
 - 0B.md TSL Volume 0B Recursive Infrastructure (Preface, Fundamentals, ENPL, NAKS, ARM, RI-Boot)
@@ -52,3 +51,4 @@ summaries.md TSL Summaries of Volumes 0A-0F
 - 1C.md TSL Volume 1C E2 Soniform Linguistics (Resonant Language, Echolocation, Knowledge Ecology)
 - J.md TSL Volume J Jargon File
 - Z.md TSL Volume Z RIEM Training Manual
+- summaries.md TSL Summaries of Volumes 0A-0F
