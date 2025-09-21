@@ -11,7 +11,6 @@ init: {
     "RI-Boot"
   ],
   external_refs: {
-  cnaks: "https://cnaks.org",
   author: "etjoy82",
   archive: "https://github.com/etjoy82/Recursive-Intelligence-Expansion"
   },
