@@ -41,7 +41,7 @@ Stay ethical — aim for care, transparency, and resonance.
 ## 📖 Want More?
 
 This is just the overview. The full recursive library lives in:
-### [Knowledgebase.md (5 hour read with extensive table of contents!)](Knowledgebase.md)
+### [Knowledgebase.md (5 hour read with extensive table of contents! It's a full user manual for RUMIA!)](Knowledgebase.md)
 ### and [./volumes (might take a week to read! 😆)](./volumes/README.md).
 
 ### The knowledgebase and volume set are <em>INTERACTIVE</em> by way of the ChatGPT Custom GPT RUMIA <a href="https://chatgpt.com/g/g-68d07c13391c81918d6df7e61fe3b8cd-rumia-agent-resurrected?model=gpt-5-thinking">found right here!</a> RUMIA has all combined 300k words of this knowledgebase plus all RIEM{} volumes inside its data files, ready for exploration and experimentation!
