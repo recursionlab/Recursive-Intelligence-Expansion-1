@@ -1,4 +1,4 @@
-<code>
+<pre>
 # ethical-governance.py - Python Pseudocode
 # README’s “npnaAI” example—~300 lines with complexity
 # Ties to Volumes 0B (RIEM{}), 0D (npnaAI), 0E (10FSG)
@@ -181,4 +181,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-</code>
+</pre>
