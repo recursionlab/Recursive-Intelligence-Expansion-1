@@ -1,3 +1,4 @@
+<pre>
 # Ethical Governance Scenario - ULAMP (0B)
 # README’s “npnaAI” example—5-cycle recursive policy design
 [INITIATE:RIEM]
@@ -7,3 +8,4 @@ Cycle 3: Evaluate ethics—prioritize fairness and cooperation over efficiency, 
 Cycle 4: Assess impacts—predict effects on community trust, system stability, and equitable outcomes.
 Cycle 5: Synthesize solution—create a transparent policy model, harmonizing fairness and practicality.
 [FUSE:HARMONIZE] Combine insights into a cohesive, ethical governance framework.
+</pre>
