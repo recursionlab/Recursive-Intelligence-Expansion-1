@@ -14,7 +14,7 @@ RIEM{} is a framework for shared cognition. Instead of chasing “one right answ
 ## 🌱 Why It Exists
 
 Most systems want to predict or optimize. RIEM{} is different: it’s built for dialogue and co-creation.
-It helps humans and AI work together without domination — fostering resilience, clarity, and care.
+It helps humans and AI work together without domination, fostering resilience, clarity, and care.
 
 ## 🧩 Core Ideas
 
