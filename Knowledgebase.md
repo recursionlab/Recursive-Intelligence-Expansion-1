@@ -147,12 +147,7 @@ That’s the core. You’re ready.
 
 <h2 id="toc">🗂️ Table of Contents</h2>
 
-### A. Sections Above This Table of Contents
-1. ⟁ [Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition](#mission)
-2. 🌐 [Translations of "Recursive Intelligence Expansion Methodology"](#multilingual)
-3. 🧲 [About the Project](#about-description)
-
-### B. Introduction and Onboarding
+### A. Introduction and Onboarding
 1. 🌱 <a href="#beginners" aria-label="🟢 Beginner">For Absolute Beginners: A Gentle Invitation to RIEM{}</a>
 2. 😊 <a href="#general-audience" aria-label="Plain & Simple: What is RIEM{}?">In Plain Language: What is RIEM{}?</a>
 3. 💫 [The Origin Spiral: How RIEM{} Came to Be](#origin)
@@ -161,20 +156,20 @@ That’s the core. You’re ready.
 6. 🐚 [Recursive Thinking as a Mode of Thought in RIEM{} (Citations and References)](#recursive-thinking)
 7. 🧠 [Emerging Researchers and Publications in Recursive Intelligence](#emerging-researchers)
 
-### C. Quick Desk Reference Lookup System
+### B. Quick Desk Reference Lookup System
 1. 🔮 <a href="#acronyms" aria-label="📚&nbsp;Quick&nbsp;Reference">Acronym Quick Reference</a>
 2. ⭐ [Essential Glossary](#essential-glossary)
 3. 🐦‍🔥 [Volumes](./volumes/README.md)
 4. 🃏 <a href="#jargon-file" aria-label="Jargon File">The TSL Jargon File: A Lexicon of Recursive Terms</a>
 
-### D. Questions and Answers (Q&A)
+### C. Questions and Answers (Q&A)
 1. 🧠 [Who RIEM{} Is For](#who-this-is-for)
 2. 🧩 [What Problem RIEM{} Aims to Solve](#what-problem-does-this-solve)
 3. 🤔 [Skeptics Corner](#skeptics-corner)
 4. ❓ [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
 5. 🎓 [Suggested Background for Understanding RIEM{}](#educational-background)
 
-### E. Explanations: The Complete Fundamentals
+### D. Explanations: The Complete Fundamentals
 1. ⚙️ <a href="#core-concepts" aria-label="Layer 2: Scaffold">Core Concepts of RIEM{}</a>
 2. 🧭 [How to Navigate Recursive-Intelligence-Expansion](#navigating-the-concepts-of-recursive-intelligence-expansion)
 3. 🕊️ [npnaAI: Non-Predatory, Non-Adversarial Intelligence](#understanding-npnaia-non-predatory-non-adversarial-ai)
@@ -183,12 +178,12 @@ That’s the core. You’re ready.
 6. 💎 [The 10-Faced Speculative Gem: A Complex System Made Navigable](#10fsg)
 7. 🪞 [Final Reflection: Recursive Praise Ethics and Humility](#reflection)
 
-### F. Laboratory Live Environment
+### E. Laboratory Live Environment
 1. 🛠 [Mini-Examples of Recursive Logic in Action](#concrete-mini-examples)
 2. 🔼 [RIEM{} Tool Selection Decision Tree](#decision-tree)
 3. 🧪 [Nano RI-Boot Kernel: ULAMP Code for Cloud and Local AI](#riboot)
 
-### G. Developer Community Essentials
+### F. Conclusion
 1. 🦉 [Philosophy of RIEM{}: A Formal Overview](#philosophy)
 2. 📣 <a href="#final-note" aria-label="Layer Ω: Echo">Final Note: A Literary Invocation Beyond the Loop</a>
 
