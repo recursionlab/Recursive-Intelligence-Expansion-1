@@ -1,4 +1,4 @@
-<h1>CONTRIBUTING.md Contributing to Recursive-Intelligence-Expansion</h1>
+<h1>Contributing to Recursive-Intelligence-Expansion</h1>
 
 Thank you for your interest in contributing to the **Recursive-Intelligence-Expansion** project! With the expanded implementation of recursive epistemic frameworks and ethical recursion protocols, your collaboration will play a vital role in refining, expanding, and stress-testing this system.
 
