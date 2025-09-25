@@ -30,13 +30,13 @@ ULAMP → Program cognition in plain language, through conversation.
 
 ## 🚀 How to Start
 
-Ask “What if?” — open a possibility.
+Ask “What if?” → open a possibility.
 
-Think in loops — revisit the answer and refine it.
+Think in loops → revisit the answer and refine it.
 
-Hold contradictions — let tension guide you.
+Hold contradictions → let tension guide you.
 
-Stay ethical — aim for care, transparency, and resonance.
+Stay ethical → aim for care, transparency, and resonance.
 
 ## 📖 Want More?
 
