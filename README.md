@@ -44,4 +44,4 @@ This is just the overview. The full recursive library lives in:
 ### [Knowledgebase.md (5 hour read with extensive table of contents!)](Knowledgebase.md)
 ### and [./volumes (might take a week to read! 😆)](./volumes/README.md).
 
-<div align="right"><sub><a href="privacy-policy.md">This README.md last updated on 2025-09-24, version 3.; Privacy</a></sub></div>
+<div align="right"><sub>This README.md last updated on 2025-09-24, version 3. <a href="privacy-policy.md">Privacy</a></sub></div>
