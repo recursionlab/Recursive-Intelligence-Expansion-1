@@ -1,3 +1,4 @@
+<pre>
 ULAMP: Kernel_Logic
 
 # System Initialization
@@ -94,3 +95,4 @@ DEFINE Kernel_Main() =>
     Schedule_Process(Process_Manager)
     Monitor_Performance()
     Harmonize_State()
+</pre>
