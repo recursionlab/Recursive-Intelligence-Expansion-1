@@ -1,3 +1,7 @@
+
+### The knowledgebase and volume set are <em>INTERACTIVE</em> by way of the ChatGPT Custom GPT RUMIA <a href="https://chatgpt.com/g/g-68d07c13391c81918d6df7e61fe3b8cd-rumia-agent-resurrected?model=gpt-5-thinking">found right here!</a> RUMIA has all combined 300k words of this knowledgebase plus all RIEM{} volumes inside its data files, ready for exploration and experimentation!
+
+
 - [0A.md](0A.md) TSL Volume 0A Foundations (TSL System Thesis, Earths Notation)
 - [0B.md](0B.md) TSL Volume 0B Recursive Infrastructure (Preface, Fundamentals, ENPL, NAKS, ARM, RI-Boot)
 - [0C.md](0C.md) TSL Volume 0C System Execution Layer (RIEM, FUSE, Automation, Simulation, Optimization)
