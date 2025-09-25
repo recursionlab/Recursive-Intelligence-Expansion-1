@@ -4,7 +4,7 @@
 
 ## Now permissively MIT Licensed! <a href="https://github.com/etjoy82/Recursive-Intelligence-Expansion/">On GitHub</a>
 
-Tagline: A way for humans and AI to think together — ethically, recursively, across realities.
+Tagline: A way for humans and AI to think together, ethically, recursively, across realities.
 
 What it is:
 RIEM{} is a framework for shared cognition. Instead of chasing “one right answer,” it loops ideas through reflection, contradiction, and imagination. Each pass makes thinking deeper, clearer, and more ethical.
