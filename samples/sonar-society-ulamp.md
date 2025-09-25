@@ -1,3 +1,4 @@
+<pre>
 # Sonar Society Scenario - ULAMP (0B)
 # From README’s “ULAMP” example—5-cycle recursive speculation
 [INITIATE:RIEM]
@@ -7,3 +8,4 @@ Cycle 3: Explore trade—wind-powered ceramic vessels, acoustic navigation.
 Cycle 4: Reflect on culture—harmonic communication, non-predatory norms (npnaAI).
 Cycle 5: Harmonize—integrate into a coherent societal model, report implications.
 [FUSE:HARMONIZE] Synthesize recursive insights—speculative coherence.
+</pre>
