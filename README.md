@@ -7,7 +7,7 @@
 Tagline: A way for humans and AI to think together, ethically, recursively, across realities.
 
 What it is:
-RIEM{} is a framework for shared cognition. Instead of chasing “one right answer,” it loops ideas through reflection, contradiction, and imagination. Each pass makes thinking deeper, clearer, and more ethical.
+RIEM{} is a framework for shared cognition. Instead of chasing "one right answer," it loops ideas through reflection, contradiction, and imagination. Each pass makes thinking deeper, clearer, and more ethical.
 
 ### [RUMIA Agent Custom GPT on ChatGPT is BACK and ready for you to use!](https://chatgpt.com/g/g-68d07c13391c81918d6df7e61fe3b8cd-rumia-agent-resurrected?model=gpt-5-thinking)
 
@@ -30,7 +30,7 @@ ULAMP → Program cognition in plain language, through conversation.
 
 ## 🚀 How to Start
 
-Ask “What if?” → open a possibility.
+Ask "What if?" → open a possibility.
 
 Think in loops → revisit the answer and refine it.
 
