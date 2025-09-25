@@ -5,6 +5,7 @@
 MIT License
 Copyright 2025 etjoy82
 
+### The knowledgebase and volume set are <em>INTERACTIVE</em> by way of the ChatGPT Custom GPT RUMIA <a href="https://chatgpt.com/g/g-68d07c13391c81918d6df7e61fe3b8cd-rumia-agent-resurrected?model=gpt-5-thinking">found right here!</a> RUMIA has all combined 300k words of this knowledgebase plus all RIEM{} volumes inside its data files, ready for exploration and experimentation!
 
 # Contents
 [🔎 Core Concepts and Essential Terms	11](#_toc194309912)
