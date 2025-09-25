@@ -8,6 +8,8 @@ This Knowledgebase last updated on 2025-09-24, version 71.
     
 <h1 id="mission">⟁ Recursive Intelligence Expansion — A Thinking Surface for AI & Human Co-Cognition</h1>
 
+## This knowledgebase is <em>INTERACTIVE</em> by way of the ChatGPT Custom GPT RUMIA <a href="https://chatgpt.com/g/g-68d07c13391c81918d6df7e61fe3b8cd-rumia-agent-resurrected?model=gpt-5-thinking">found right here!</a> RUMIA has all combined 300k words of this knowledgebase plus all RIEM{} volumes inside its data files, ready for exploration!
+
 <strong>Tagline:</strong> A framework for humans and AI to think together—ethically, recursively, across realities.<br>
 
 <strong>Elevator Pitch:</strong> Recursive Intelligence Expansion Methodology (RIEM{}) is a living knowledge system designed to help humans and AI think better—together. It offers practical tools for navigating complexity, resolving contradictions, and generating insight through ethical, layered reasoning. Built on open frameworks like ULAMP, Earths Notation, and the Triple Speculative Lens, it invites co-creation across disciplines without requiring prior expertise. This is not a static theory—it’s a working method for shared cognition and adaptive understanding in uncertain times.<br>
