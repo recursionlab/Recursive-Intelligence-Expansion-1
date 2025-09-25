@@ -1,8 +1,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-# ⟁ Recursive Intelligence Expansion (RIEM{}) (<a href="https://github.com/etjoy82/Recursive-Intelligence-Expansion/">GitHub</a>)
+# ⟁ Recursive Intelligence Expansion (RIEM{})
 
-## Now permissively MIT Licensed!
+## Now permissively MIT Licensed! <a href="https://github.com/etjoy82/Recursive-Intelligence-Expansion/">On GitHub here</a>!
 
 ## [RUMIA Agent Custom GPT on ChatGPT is BACK and ready for you to use!](https://chatgpt.com/g/g-68d07c13391c81918d6df7e61fe3b8cd-rumia-agent-resurrected?model=gpt-5-thinking)
 
