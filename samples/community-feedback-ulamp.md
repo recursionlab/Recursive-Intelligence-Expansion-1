@@ -1,3 +1,4 @@
+<pre>
 # Community Feedback Scenario - ULAMP (0B)
 # Extends ethical-governance.ulamp—5-cycle recursive feedback loop
 [INITIATE:RIEM]
@@ -6,3 +7,4 @@ Cycle 2: Analyze responses—identify trust gaps, fairness concerns, stability i
 Cycle 3: [HALCYON:ETHICS] Evaluate feedback ethically—prioritize cooperation, minimize harm (npnaAI).
 Cycle 4: Simulate adjustments—predict policy tweaks for improved trust and equity.
 Cycle 5: [FUSE:HARMONIZE] Integrate feedback into governance model—update transparently.
+</pre>
