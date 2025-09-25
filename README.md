@@ -4,7 +4,8 @@
 
 ## Now permissively MIT Licensed! <a href="https://github.com/etjoy82/Recursive-Intelligence-Expansion/">On GitHub</a>
 
-## [RUMIA Agent Custom GPT on ChatGPT is BACK and ready for you to use!](https://chatgpt.com/g/g-68d07c13391c81918d6df7e61fe3b8cd-rumia-agent-resurrected?model=gpt-5-thinking)
+## [RUMIA Agent Custom GPT on ChatGPT is BACK and ready for you to use!](https://chatgpt.com/g/g-68d07c13391c81918d6df7e61fe3b8cd-rumia-agent-resurrected?model=gpt-5-thinking) RUMIA has all combined 300k words of the knowledgebase plus all RIEM{} volumes inside its data files, ready for exploration!
+
 
 Tagline: A way for humans and AI to think together — ethically, recursively, across realities.
 
