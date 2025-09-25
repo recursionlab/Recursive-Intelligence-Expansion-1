@@ -1,3 +1,4 @@
+<pre>
 # car-scenario.py - Python Pseudocode for Self-Driving Car with 10FSG
 # Simulates 7-cycle recursive ethics loop from car-scenario.ulamp (0B, 0E)
 # Approx. 300 lines for realistic complexity—contrasts ULAMP’s 9-line compression
@@ -232,3 +233,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+</pre>
