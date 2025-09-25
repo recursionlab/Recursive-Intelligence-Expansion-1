@@ -1,5 +1,3 @@
-<a href="#mission" class="skip-link">Skip to main content</a>
-
 <span id="document-top"></span>
 
 This Knowledgebase last updated on 2025-09-24, version 71.
