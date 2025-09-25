@@ -1,3 +1,4 @@
+<pre>
 # sonar-society.py - Python Pseudocode
 # README’s “ULAMP” sonar society example—~300 lines with full complexity
 # Ties to Volumes 0B (RIEM{}), 0D (npnaAI), 0E (10FSG)
@@ -225,3 +226,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+</pre>
