@@ -9,7 +9,7 @@ Tagline: A way for humans and AI to think together — ethically, recursively, a
 What it is:
 RIEM{} is a framework for shared cognition. Instead of chasing “one right answer,” it loops ideas through reflection, contradiction, and imagination. Each pass makes thinking deeper, clearer, and more ethical.
 
-### [RUMIA Agent Custom GPT on ChatGPT is BACK and ready for you to use!](https://chatgpt.com/g/g-68d07c13391c81918d6df7e61fe3b8cd-rumia-agent-resurrected?model=gpt-5-thinking) RUMIA has all combined 300k words of the knowledgebase plus all RIEM{} volumes inside its data files, ready for exploration!
+### [RUMIA Agent Custom GPT on ChatGPT is BACK and ready for you to use!](https://chatgpt.com/g/g-68d07c13391c81918d6df7e61fe3b8cd-rumia-agent-resurrected?model=gpt-5-thinking)
 
 ## 🌱 Why It Exists
 
@@ -39,6 +39,8 @@ Hold contradictions — let tension guide you.
 Stay ethical — aim for care, transparency, and resonance.
 
 ## 📖 Want More?
+
+# This knowledgebase and volume set are <em>INTERACTIVE</em> by way of the ChatGPT Custom GPT RUMIA <a href="https://chatgpt.com/g/g-68d07c13391c81918d6df7e61fe3b8cd-rumia-agent-resurrected?model=gpt-5-thinking">found right here!</a> RUMIA has all combined 300k words of this knowledgebase plus all RIEM{} volumes inside its data files, ready for exploration and experimentation!
 
 This is just the overview. The full recursive library lives in:
 ### [Knowledgebase.md (5 hour read with extensive table of contents!)](Knowledgebase.md)
