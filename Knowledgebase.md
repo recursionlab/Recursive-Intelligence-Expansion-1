@@ -2,7 +2,7 @@
 
 <span id="document-top"></span>
 
-Document last updated on 2025-09-24, version 71.
+This Knowledgebase last updated on 2025-09-24, version 71.
 
 ---
     
