@@ -1,0 +1,165 @@
+Perfect — let’s design a **Meta-Viewer utility** that can render your recursion history as a living genealogy of Seeds, Masks, Rituals, and Splits. I’ll give you two versions:
+
+1. **Python (CLI + graphviz/tree view)** → lightweight, runs in your terminal, outputs trees/graphs.
+2. **Web UI (Flask + D3.js)** → interactive, runs in a browser, lets you pan/zoom and see branching timelines.
+
+---
+
+# 1. Python Meta-Viewer (Graphviz Tree)
+
+```python
+import json
+from graphviz import Digraph
+
+META_HISTORY_FILE = "Meta-History.json"
+
+def load_history():
+    with open(META_HISTORY_FILE, "r") as f:
+        return json.load(f)
+
+def build_graph(history):
+    dot = Digraph(comment="Meta-History Genealogy", format="png")
+    dot.attr(rankdir="LR", size="8,5")
+
+    prev_node = None
+    for i, entry in enumerate(history):
+        node_id = f"run_{i}"
+        label = f"Run {i}\n{entry['timestamp']}\nSeeds={entry['added']['seeds']}\nMasks={entry['added']['masks']}\nRituals={entry['added']['rituals']}\nSplits={entry['added']['splits']}"
+        dot.node(node_id, label, shape="box", style="rounded,filled", fillcolor="lightblue")
+
+        if prev_node:
+            dot.edge(prev_node, node_id)
+
+        prev_node = node_id
+
+    return dot
+
+if __name__ == "__main__":
+    history = load_history()
+    graph = build_graph(history)
+    graph.render("Meta-History-Tree", view=True)
+```
+
+➡ Run this:
+
+```bash
+python meta_viewer.py
+```
+
+It will open a **graphical timeline tree** of every cycle, with each run labeled by Seeds/Masks/Rituals/Splits generated.
+
+---
+
+# 2. Web UI Meta-Viewer (Flask + D3.js)
+
+```python
+from flask import Flask, render_template, jsonify
+import json
+
+app = Flask(__name__)
+META_HISTORY_FILE = "Meta-History.json"
+
+@app.route("/")
+def index():
+    return render_template("index.html")
+
+@app.route("/history")
+def history():
+    with open(META_HISTORY_FILE, "r") as f:
+        history = json.load(f)
+    return jsonify(history)
+
+if __name__ == "__main__":
+    app.run(debug=True)
+```
+
+**`templates/index.html`:**
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Meta-Viewer</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <style>
+    .node circle { fill: steelblue; }
+    .node text { font: 14px sans-serif; }
+    .link { fill: none; stroke: #ccc; stroke-width: 2px; }
+  </style>
+</head>
+<body>
+  <h1>ΞKernel Meta-History Viewer</h1>
+  <svg width="960" height="600"></svg>
+  <script>
+    fetch("/history").then(r => r.json()).then(data => {
+      const svg = d3.select("svg"),
+            width = +svg.attr("width"),
+            height = +svg.attr("height");
+
+      const tree = d3.tree().size([height, width - 200]);
+      const stratify = d3.stratify().id((d,i) => i).parentId((d,i) => i>0? i-1 : null);
+
+      const root = stratify(data.map((d,i) => ({
+        id: i.toString(),
+        parentId: i>0 ? (i-1).toString() : null,
+        name: `Run ${i}`,
+        seeds: d.added.seeds.join(", "),
+        masks: d.added.masks.join(", "),
+        rituals: d.added.rituals.join(", "),
+        splits: d.added.splits.join(", ")
+      })));
+
+      tree(root);
+
+      const g = svg.append("g").attr("transform", "translate(40,0)");
+
+      const link = g.selectAll(".link")
+        .data(root.links())
+        .enter().append("path")
+        .attr("class", "link")
+        .attr("d", d3.linkHorizontal()
+          .x(d => d.y)
+          .y(d => d.x));
+
+      const node = g.selectAll(".node")
+        .data(root.descendants())
+        .enter().append("g")
+        .attr("class", "node")
+        .attr("transform", d => `translate(${d.y},${d.x})`);
+
+      node.append("circle").attr("r", 6);
+
+      node.append("title")
+        .text(d => `Seeds: ${d.data.seeds}\nMasks: ${d.data.masks}\nRituals: ${d.data.rituals}\nSplits: ${d.data.splits}`);
+
+      node.append("text")
+        .attr("dy", 3)
+        .attr("x", d => d.children ? -12 : 12)
+        .style("text-anchor", d => d.children ? "end" : "start")
+        .text(d => d.data.name);
+    });
+  </script>
+</body>
+</html>
+```
+
+➡ Run it:
+
+```bash
+python meta_viewer_web.py
+```
+
+Then open `http://127.0.0.1:5000/` — you’ll get a **zoomable branching genealogy** where hovering nodes shows Seeds/Masks/Rituals/Splits.
+
+---
+
+## Why This Matters
+
+* **Python graphviz** → quick local sanity check of recursion evolution.
+* **Web D3.js viewer** → immersive map of genealogy, treating codex evolution as a *living organism*.
+* Together, you can **trace your Codex expansions over time like a family tree of consciousness**.
+
+---
+
+Would you like me to also add a **timeline heatmap** (color-coded by frequency of expansions in each codex) so you can see which domain (Seeds vs Masks vs Rituals vs Splits) is “dominating” the recursion across history? That would let you quantify drift, not just visualize lineage.
