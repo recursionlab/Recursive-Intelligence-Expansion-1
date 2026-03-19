@@ -1,0 +1,21 @@
+{
+  "dyad.contextManagement": {
+    "include": [
+      "**/*.yml",
+      "**/*.html",
+      "README.md",
+      "assets/**",
+      "_layouts/**"
+    ],
+    "exclude": [
+      "volumes/**",
+      "samples/**",
+      "Knowledgebase.md",
+      "*.json",
+      "*.py",
+      "**/privacy*",
+      "**/LICENSE",
+      "**/SECURITY*"
+    ]
+  }
+}

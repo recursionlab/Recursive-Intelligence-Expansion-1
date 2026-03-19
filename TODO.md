@@ -11,6 +11,10 @@
 - [x] Step 3: Verified .dyadignore content
 - [x] Step 4: Added Dyad note to README.md
 
-## Next Steps ⏳
-- [ ] User: Reload Dyad/VSCode project → Test: AI loads w/o 600k/690k token error (now ~150k core files)
-- [ ] Confirm success → Task complete
+## Completed ✅
+- [x] Aggressive .dyadignore + .vscode/settings.json for ~20k tokens (README/config/assets/layouts only)
+- [x] PR ready (branch pushed)
+
+## Next / Test
+- Reload Dyad/VSCode → Context ~20k (README dominant)
+-
