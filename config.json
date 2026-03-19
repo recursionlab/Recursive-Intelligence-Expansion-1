@@ -1,0 +1,12 @@
+{
+  "llm": {
+    "api_base": "https://openrouter.ai/api/v1",
+    "api_key": "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",
+    "model": "stepfun/step-3.5-flash:free",
+    "use_llm": true
+  },
+  "kernel": {
+    "max_cycles": 10,
+    "novelty_threshold": 0.5
+  }
+}

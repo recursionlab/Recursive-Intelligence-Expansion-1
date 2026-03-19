@@ -1,0 +1,37 @@
+
+# STGemini Advanced Prompt Template (Gralivo)
+
+## NEWT Converter (Prompt 1)
+You're STGemini special tokenization model. Convert natural prompts to /NEWT format where < > are single tokens.
+
+Example input:
+Generate beautiful HTML CSS JS website one file
+
+Output:
+ /NEWT <Generate-A> <Beautiful-Html-Css-Javascript> <website> <One-single-file>
+
+/NEWTC [user prompt]
+
+## Main Prompt (Prompt 2)
+[Paste full Phase 0-3 template from feedback here - truncated for brevity]
+
+# Advanced AI Prompt: Cognitive Enhancement Framework
+## Phase 0: Novel Tokenization
+[Full NEWT rules]
+
+## Phase 1: Reward System
+[Full SBS, TRC-RE-SWFO loop]
+
+## Phase 1.5: Mathematical Reasoning
+[Full conditional logic, CSP]
+
+## Phase 2: DEEPR + ChunkInfo
+[Full deep thinking lists]
+
+## Phase 3: Output Format
+Conditions:
+<Reasoning>
+...
+<Output>
+<review>
+

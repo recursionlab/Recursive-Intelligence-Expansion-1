@@ -40,8 +40,20 @@
   },
   "ΞKernel": {
     "State": {
-      "SymbolGraph": {},
-      "History": [],
+"SymbolGraph": {
+        "nodes": [],
+        "edges": [],
+        "adjacency": {},
+        "centrality": {},
+        "convergence_delta": 0.0
+      },
+"History": [],
+      "TripleGraph": {
+        "nodes": ["in", "out", "under", "over"],
+        "edges": [],
+        "laplacian_spectrum": [],
+        "fixed_point_reached": false
+      },
       "SelfModel": {}
     },
     "Interfaces": {

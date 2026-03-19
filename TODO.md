@@ -1,19 +1,31 @@
-# RIEM ΞKernel Preposition Triples Progress (64 Combos: {in, out, under, over})
+# 10-Phase Execution Plan - Double-Check (User Runs Commands Manually)
 
-## Pending ⏳
-- [x] Step 1: Generate all 64 triples and qualitative self-model interpretations (preposition_triples.py + JSON)
-- [ ] Step 2: Update Meta-Library.json with Prepositions list
-- [ ] Step 3: Add generate_triples() and test_triples_loop() to ΞKernel.py
-- [ ] Step 4: Create triples-test.py for validation
-- [ ] Step 5: Test full loop with LLM on triples
-- [ ] Step 6: Add triples-sample.md to samples/
+## Pass 1: Implementation
 
-### Completed ✅
-- [x] Initial plan confirmed and TODO created
-- [x] Step 1: Generate all 64 triples and qualitative self-model interpretations (preposition_triples.py + JSON)
-- [x] Step 2: Update Meta-Library.json with Prepositions list
-- [x] Step 3: Add generate_triples() and test_triples_loop() to ΞKernel.py
-- [x] Step 4: Create triples-test.py for validation
-- [x] Step 5: Test full loop with LLM on triples (commands executed)
-- [x] Step 6: Add triples-sample.md to samples/
+### Phase 1: Core Testing & Validation [READY FOR USER TEST]
+- [ ] pytest test_xikernel.py tests/app_test.py --cov=app --cov-report=html (aim 95%+)
+- [ ] locust -f tests/load_locust.py --users 100
 
+### Phase 2: Performance Optimization [PROGRESS]
+- [x] app.py: Redis cache + /taskboard endpoints
+- [x] DB indexes: jobs/workspace_messages
+
+### Phase 3: Security Audit
+- [ ] app.py: Full JWT auth, sanitization
+
+### Phase 4: Frontend Refactor
+- [ ] frontend/ React Kanban (vite)
+
+### Phase 5-10: [Pending]
+
+## Pass 2: Audit/Validate (Repeat + Fix)
+
+**Self-Fix Progress #1-6 ✓**: run.bat, port 8080, test_deps.py, DB Path, Kernel guard, logging/print.
+
+**Next: #7 Hosts, #8 Firewall netsh, #9 Redis mock.**
+
+Double-click run.bat or start_debug.bat for server + deps check.
+
+Server: http://localhost:8080/health
+
+User: Edit files, then manually: pip install -r requirements.txt && pytest ...

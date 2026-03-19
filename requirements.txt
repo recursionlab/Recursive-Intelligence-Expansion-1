@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pytest
+pytest-cov
+locust
+redis
+python-jwt[crypto]
+bleach
+slowapi
+sentence-transformers
+python-multipart
+networkx
+numpy
+requests
+python-dotenv
