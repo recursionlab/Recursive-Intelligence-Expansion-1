@@ -1,0 +1,16 @@
+# Dyad Context Management (v0.8+)
+# Excludes token-heavy volumes (300k+ words), samples, Knowledgebase.md
+# Keeps essentials: README.md, _config.yml, assets/, volumes/README.md/summaries.md auto-included via non-match
+
+# Heavy volumes (main token sink)
+volumes/**
+
+# Samples
+samples/**
+
+# Massive manual
+Knowledgebase.md
+
+# Optional: Keep light summaries if needed (uncomment)
+# !volumes/summaries.md
+# !volumes/README.md

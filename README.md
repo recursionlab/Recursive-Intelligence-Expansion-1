@@ -40,6 +40,8 @@ Stay ethical → aim for care, transparency, and resonance.
 
 ## 📖 Want More?
 
+**Dyad Note**: `.dyadignore` excludes `volumes/**`, `samples/**`, `Knowledgebase.md` (~500k tokens) for context limits. Edit as needed.
+
 This is just the overview. The full recursive library lives in:
 ### [Knowledgebase.md (2 hour read with extensive table of contents! It's a full user manual for RUMIA, Triple Speculative Lens, and RIEM{}!)](Knowledgebase.md)
 ### and [./volumes (might take a weekend to read! 😆)](./volumes/README.md).
